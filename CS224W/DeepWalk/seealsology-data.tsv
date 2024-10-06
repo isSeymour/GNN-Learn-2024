@@ -1,0 +1,4233 @@
+source	target	depth
+support vector machine	in situ adaptive tabulation	1
+support vector machine	kernel machines	1
+support vector machine	fisher kernel	1
+support vector machine	platt scaling	1
+support vector machine	polynomial kernel	1
+support vector machine	predictive analytics	1
+support vector machine	regularization perspectives on support vector machines	1
+support vector machine	relevance vector machine	1
+support vector machine	sequential minimal optimization	1
+support vector machine	space mapping	1
+support vector machine	winnow (algorithm)	1
+decision tree	behavior tree (artificial intelligence, robotics and control)	1
+decision tree	boosting (machine learning)	1
+decision tree	decision cycle	1
+decision tree	decision list	1
+decision tree	decision matrix	1
+decision tree	decision table	1
+decision tree	decision tree model	1
+decision tree	design rationale	1
+decision tree	drakon	1
+decision tree	markov chain	1
+decision tree	random forest	1
+decision tree	ordinal priority approach	1
+decision tree	odds algorithm	1
+decision tree	topological combinatorics	1
+decision tree	truth table	1
+deep learning	applications of artificial intelligence	1
+deep learning	comparison of deep learning software	1
+deep learning	compressed sensing	1
+deep learning	differentiable programming	1
+deep learning	echo state network	1
+deep learning	liquid state machine	1
+deep learning	reservoir computing	1
+deep learning	scale space	1
+deep learning	sparse coding	1
+deep learning	stochastic parrot	1
+deep learning	topological deep learning	1
+computer vision	chessboard detection	1
+computer vision	computational imaging	1
+computer vision	computational photography	1
+computer vision	computer audition	1
+computer vision	egocentric vision	1
+computer vision	machine vision glossary	1
+computer vision	space mapping	1
+computer vision	teknomo–fernandez algorithm	1
+computer vision	vision science	1
+computer vision	visual agnosia	1
+computer vision	visual perception	1
+computer vision	visual system	1
+visual system	achromatopsia	2
+visual system	akinetopsia	2
+visual system	apperceptive agnosia	2
+visual system	associative visual agnosia	2
+visual system	asthenopia	2
+visual system	astigmatism (eye)	2
+visual system	color blindness	2
+visual system	human echolocation	2
+visual system	computer vision	2
+visual system	helmholtz–kohlrausch effect	2
+visual system	color balance	2
+visual system	magnocellular cell	2
+visual system	memory-prediction framework	2
+visual system	prosopagnosia	2
+visual system	scotopic sensitivity syndrome	2
+visual system	recovery from blindness	2
+visual system	visual agnosia	2
+visual system	visual modularity	2
+visual system	visual perception	2
+visual system	visual processing	2
+visual perception	color vision	2
+visual perception	computer vision	2
+visual perception	depth perception	2
+visual perception	entoptic phenomenon	2
+visual perception	gestalt psychology	2
+visual perception	lateral masking	2
+visual perception	looming	2
+visual perception	naked eye	2
+visual perception	machine vision	2
+visual perception	mcgill picture anomaly test	2
+visual perception	motion perception	2
+visual perception	multisensory integration	2
+visual perception	interpretation (philosophy)	2
+visual perception	spatial frequency	2
+visual perception	visual illusion	2
+visual perception	visual processing	2
+visual perception	visual system	2
+visual perception	wikt:sensation	2
+visual perception	achromatopsia	2
+visual perception	akinetopsia	2
+visual perception	apperceptive agnosia	2
+visual perception	associative visual agnosia	2
+visual perception	color blindness	2
+visual perception	hallucinogen persisting perception disorder	2
+visual perception	illusory palinopsia	2
+visual perception	prosopagnosia	2
+visual perception	refractive error	2
+visual perception	recovery from blindness	2
+visual perception	scotopic sensitivity syndrome	2
+visual perception	visual agnosia	2
+visual perception	visual snow	2
+visual perception	cognitive psychology	2
+visual perception	cognitive science	2
+visual perception	neuroscience	2
+visual perception	ophthalmology	2
+visual perception	optometry	2
+visual perception	psychophysics	2
+visual agnosia	agnosia	2
+visual agnosia	blindness	2
+visual agnosia	color agnosia	2
+visual agnosia	gestaltzerfall	2
+visual agnosia	prosopagnosia	2
+visual agnosia	riddoch syndrome	2
+visual agnosia	topographical disorientation	2
+vision science	brain	2
+vision science	color constancy	2
+vision science	color vision	2
+vision science	computer vision	2
+vision science	eye	2
+vision science	linguistic relativity and the color naming debate	2
+vision science	neuropsychology	2
+vision science	neuroscience	2
+vision science	ophthalmology	2
+vision science	optical illusion	2
+vision science	optometry	2
+vision science	primary colors	2
+vision science	psychophysics	2
+vision science	visual cortex	2
+vision science	visual neuroscience	2
+vision science	visual system	2
+space mapping	adaptive control	2
+space mapping	cognitive model	2
+space mapping	computational electromagnetics	2
+space mapping	computer-aided design	2
+space mapping	engineering optimization	2
+space mapping	finite element method	2
+space mapping	kriging	2
+space mapping	linear approximation	2
+space mapping	machine learning	2
+space mapping	mental model	2
+space mapping	mental rotation	2
+space mapping	mirror neuron	2
+space mapping	model-dependent realism	2
+space mapping	multiphysics	2
+space mapping	performance tuning	2
+space mapping	response surface methodology	2
+space mapping	semiconductor device modeling	2
+space mapping	spatial cognition	2
+space mapping	spatial memory	2
+space mapping	support vector machine	2
+space mapping	theory of mind	2
+spatial cognition	spatial ability	3
+spatial cognition	spatial contextual awareness	3
+spatial cognition	spatial memory	3
+spatial cognition	sense of direction	3
+spatial cognition	space mapping	3
+spatial memory	animal cognition	3
+spatial memory	cognitive map	3
+spatial memory	dissociation (neuropsychology)	3
+spatial memory	method of loci	3
+spatial memory	spatial ability	3
+spatial memory	space mapping	3
+spatial memory	visual memory	3
+theory of mind	attribution bias	3
+theory of mind	cephalopod intelligence	3
+theory of mind	cetacean intelligence	3
+theory of mind	eliminative materialism	3
+theory of mind	empathy	3
+theory of mind	grounding in communication	3
+theory of mind	intentional stance	3
+theory of mind	joint attention	3
+theory of mind	mental body	3
+theory of mind	mentalization	3
+theory of mind	mini-sea	3
+theory of mind	origin of language	3
+theory of mind	perspective-taking	3
+theory of mind	quantum mind	3
+theory of mind	relational frame theory	3
+theory of mind	self-awareness	3
+theory of mind	social neuroscience	3
+theory of mind	embodied cognition	3
+theory of mind	space mapping	3
+theory of mind	the mind of an ape	3
+theory of mind	turing test	3
+theory of mind	type physicalism	3
+theory of mind	interpersonal accuracy	3
+sense of direction	direction determination	4
+sense of direction	left-right confusion	4
+sense of direction	personal relative direction	4
+sense of direction	spatial disorientation	4
+sense of direction	spatial ability	4
+semiconductor device modeling	compact model coalition	3
+semiconductor device modeling	diode modelling	3
+semiconductor device modeling	technology cad	3
+semiconductor device modeling	transistor models	3
+diode modelling	bipolar junction transistor	4
+diode modelling	semiconductor device modeling	4
+transistor models	safe operating area	4
+transistor models	electronic design automation	4
+transistor models	electronic circuit simulation	4
+transistor models	semiconductor device modeling	4
+compact model coalition	electronic circuit simulation	4
+embodied cognition	action-specific perception	4
+embodied cognition	active inference	4
+embodied cognition	blue brain project	4
+embodied cognition	cognitive biology	4
+embodied cognition	cognitive linguistics	4
+embodied cognition	cognitive neuropsychology	4
+embodied cognition	cognitive neuroscience	4
+embodied cognition	cognitive science	4
+embodied cognition	computationalism	4
+embodied cognition	conceptual blending	4
+embodied cognition	conceptual metaphor	4
+embodied cognition	cortical homunculus	4
+embodied cognition	ecological psychology	4
+embodied cognition	embodied bilingual language	4
+embodied cognition	embodied cognitive science	4
+embodied cognition	embodied embedded cognition	4
+embodied cognition	embodied music cognition	4
+embodied cognition	embodied phenomenology	4
+embodied cognition	enactivism	4
+embodied cognition	extended cognition	4
+embodied cognition	extended mind thesis	4
+embodied cognition	externalism	4
+embodied cognition	feeling	4
+embodied cognition	image schema	4
+embodied cognition	metaphors we live by	4
+embodied cognition	moravec's paradox	4
+embodied cognition	motor cognition	4
+embodied cognition	neuroconstructivism	4
+embodied cognition	neuropsychology	4
+embodied cognition	neurophenomenology	4
+embodied cognition	philosophy of mind	4
+embodied cognition	plant cognition	4
+embodied cognition	women, fire, and dangerous things	4
+type physicalism	consciousness	4
+type physicalism	biological naturalism	4
+type physicalism	emergent materialism	4
+type physicalism	materialism	4
+type physicalism	mind–body problem	4
+type physicalism	monism	4
+type physicalism	philosophy of mind	4
+type physicalism	physicalism	4
+type physicalism	presentism (philosophy of time)	4
+turing test	natural language processing	4
+turing test	artificial intelligence in fiction	4
+turing test	blindsight	4
+turing test	causality	4
+turing test	chatbot	4
+turing test	chatgpt	4
+turing test	computer game bot turing test	4
+turing test	dead internet theory	4
+turing test	explanation	4
+turing test	explanatory gap	4
+turing test	functionalism (philosophy of mind)	4
+turing test	graphics turing test	4
+turing test	ex machina (film)	4
+turing test	hard problem of consciousness	4
+turing test	mark v. shaney	4
+turing test	mind-body problem	4
+turing test	mirror neuron	4
+turing test	philosophical zombie	4
+turing test	problem of other minds	4
+turing test	reverse engineering	4
+turing test	sentience	4
+turing test	simulated reality	4
+turing test	social bot	4
+turing test	technological singularity	4
+turing test	theory of mind	4
+turing test	uncanny valley	4
+turing test	voight-kampff machine	4
+turing test	winograd schema challenge	4
+turing test	shrdlu	4
+the mind of an ape	primate cognition	4
+the mind of an ape	thomas nagel	4
+the mind of an ape	animal cognition	4
+the mind of an ape	alex (parrot)	4
+social neuroscience	behavioral economics	4
+social neuroscience	biocultural evolution	4
+social neuroscience	cognitive neuropsychology	4
+social neuroscience	emotion	4
+social neuroscience	evolutionary psychology	4
+social neuroscience	motor cognition	4
+social neuroscience	neural synchrony	4
+social neuroscience	neuroeconomics	4
+social neuroscience	personality neuroscience	4
+social neuroscience	social cognition	4
+social neuroscience	social cognitive and affective neuroscience	4
+social neuroscience	social cognitive neuroscience	4
+social neuroscience	social psychology	4
+social neuroscience	sociobiology	4
+self-awareness	self-concept	4
+self-awareness	self-reflection	4
+self-awareness	vertiginous question	4
+self-awareness	philosophy of self	4
+quantum mind	artificial consciousness	4
+quantum mind	bohm interpretation	4
+quantum mind	coincidence detection in neurobiology	4
+quantum mind	critical brain hypothesis	4
+quantum mind	electromagnetic theories of consciousness	4
+quantum mind	evolutionary neuroscience	4
+quantum mind	orch-or	4
+quantum mind	hard problem of consciousness	4
+quantum mind	holonomic brain theory	4
+quantum mind	many-minds interpretation	4
+quantum mind	mechanism (philosophy)	4
+quantum mind	neuroplasticity	4
+quantum mind	quantum cognition	4
+quantum mind	quantum neural network	4
+relational frame theory	cognitive grammar	4
+relational frame theory	cognitive linguistics	4
+relational frame theory	construction grammar	4
+relational frame theory	constructivism (psychological school)	4
+relational frame theory	embodied cognitive science	4
+relational frame theory	enactivism	4
+relational frame theory	image schema	4
+relational frame theory	operant conditioning	4
+relational frame theory	personal construct theory	4
+relational frame theory	schema (psychology)	4
+relational frame theory	situated cognition	4
+perspective-taking	role reversal	4
+perspective-taking	role-taking theory	4
+perspective-taking	theory of mind	4
+origin of language	abiogenesis	4
+origin of language	biolinguistics	4
+origin of language	bouba/kiki effect	4
+origin of language	bow-wow theory	4
+origin of language	digital infinity	4
+origin of language	essay on the origin of languages	4
+origin of language	evolutionary psychology of language	4
+origin of language	foxp2 and human evolution	4
+origin of language	generative anthropology	4
+origin of language	historical linguistics	4
+origin of language	neurobiological origins of language	4
+origin of language	origins of society	4
+origin of language	origin of speech	4
+origin of language	proto-language	4
+origin of language	theory of language	4
+mental body	esoteric	4
+mental body	esoteric cosmology	4
+mental body	etheric body	4
+mental body	spiritual evolution	4
+mental body	subtle body	4
+mental body	thoughtform	4
+mental body	science	4
+mental body	consciousness	4
+mental body	mind	4
+mental body	mind–body problem	4
+mental body	philosophy of mind	4
+mental body	theory of mind	4
+intentional stance	four causes	4
+intentional stance	telos	4
+intentional stance	teleology	4
+intentional stance	conceptual blending	4
+intentional stance	folk psychology	4
+intentional stance	high- and low-level	4
+intentional stance	instrumentalism	4
+intentional stance	integrative level	4
+intentional stance	intention	4
+intentional stance	intentionality	4
+intentional stance	level of analysis	4
+intentional stance	life stance	4
+intentional stance	david marr (psychologist)	4
+intentional stance	naturalization of intentionality	4
+intentional stance	operationalism	4
+intentional stance	philosophical realism	4
+intentional stance	philosophy of mind	4
+intentional stance	stance (linguistics)	4
+intentional stance	theory of mind	4
+intentional stance	the philosophy of 'as if'	4
+mentalization	adaptive mentalization-based integrative treatment	4
+mentalization	mentalization based treatment	4
+mentalization	metacognition	4
+mentalization	psychic equivalence	4
+mentalization	social cognition	4
+joint attention	asperger syndrome	4
+joint attention	cooperative eye hypothesis	4
+joint attention	grounding in communication	4
+joint attention	vocabulary development	4
+grounding in communication	cognition	4
+grounding in communication	communication	4
+grounding in communication	common knowledge (logic)	4
+grounding in communication	media richness theory	4
+grounding in communication	situation awareness	4
+empathy	against empathy	4
+empathy	artificial empathy	4
+empathy	attribution (psychology)	4
+empathy	digital empathy	4
+empathy	philip k. dick	4
+empathy	do androids dream of electric sheep?	4
+empathy	ecological empathy	4
+empathy	emotional intelligence	4
+empathy	emotional literacy	4
+empathy	empathic concern	4
+empathy	empathizing–systemizing theory	4
+empathy	empathy in chickens	4
+empathy	empathy in literature	4
+empathy	empathy in online communities	4
+empathy	ethnocultural empathy	4
+empathy	grounding in communication	4
+empathy	highly sensitive person	4
+empathy	humanistic coefficient	4
+empathy	identification (psychology)	4
+empathy	life skills	4
+empathy	mimpathy	4
+empathy	mirror-touch synesthesia	4
+empathy	moral emotions	4
+empathy	oxytocin	4
+empathy	people skills	4
+empathy	rapport	4
+empathy	schema (psychology)	4
+empathy	self-conscious emotions	4
+empathy	sensibility	4
+empathy	simulation theory of empathy	4
+empathy	social emotions	4
+empathy	soft skills	4
+empathy	theory of mind in animals	4
+empathy	vicarious embarrassment	4
+eliminative materialism	attention schema theory	4
+eliminative materialism	blindsight	4
+eliminative materialism	constructivist epistemology	4
+eliminative materialism	cotard delusion	4
+eliminative materialism	deconstructivism	4
+eliminative materialism	epiphenomenalism	4
+eliminative materialism	functionalism (philosophy of mind)	4
+eliminative materialism	mind–body problem	4
+eliminative materialism	monism	4
+eliminative materialism	new mysterianism	4
+eliminative materialism	nihilism	4
+eliminative materialism	phenomenology (philosophy)	4
+eliminative materialism	physicalism	4
+eliminative materialism	principle of locality	4
+eliminative materialism	property dualism	4
+eliminative materialism	reductionism	4
+eliminative materialism	scientism	4
+eliminative materialism	substance dualism	4
+eliminative materialism	vertiginous question	4
+cetacean intelligence	animal cognition	4
+cetacean intelligence	animal consciousness	4
+cetacean intelligence	morgan's canon	4
+cetacean intelligence	john c. lilly	4
+cetacean intelligence	louis herman	4
+cetacean intelligence	animal language	4
+cetacean intelligence	vocal learning	4
+cetacean intelligence	spindle neuron	4
+cetacean intelligence	military dolphin	4
+cetacean intelligence	u.s. navy marine mammal program	4
+cetacean intelligence	so long, and thanks for all the fish	4
+cetacean intelligence	uplift universe	4
+cetacean intelligence	pig intelligence	4
+cephalopod intelligence	animal cognition	4
+cephalopod intelligence	animal consciousness	4
+cephalopod intelligence	octopolis and octlantis	4
+method of loci	spatial memory	4
+cognitive map	cognitive geography	4
+cognitive map	fuzzy cognitive map	4
+cognitive map	motion perception	4
+cognitive map	repertory grid	4
+cognitive map	mind map	4
+spatial ability	aphantasia	4
+spatial ability	mechanical aptitude	4
+spatial ability	motor imagery	4
+spatial ability	raven's progressive matrices	4
+spatial ability	spatial cognition	4
+spatial ability	spatial contextual awareness	4
+spatial ability	spatial memory	4
+animal cognition	anthropomorphism	4
+animal cognition	biosemiotics	4
+animal cognition	cognitive psychology	4
+animal cognition	deception in animals	4
+animal cognition	embodied cognition	4
+animal cognition	evolution of cognition	4
+animal cognition	human–animal communication	4
+animal cognition	number sense in animals	4
+animal cognition	tool use by animals	4
+animal cognition	uplift (science fiction)	4
+animal cognition	zoopharmacognosy	4
+animal cognition	zoosemiotics	4
+animal cognition	bird intelligence	4
+animal cognition	cetacean intelligence	4
+animal cognition	dog intelligence	4
+animal cognition	fish intelligence	4
+animal cognition	insect cognition	4
+animal cognition	plant cognition	4
+spatial contextual awareness	augmented reality	4
+spatial contextual awareness	context awareness	4
+spatial contextual awareness	context-aware pervasive systems	4
+spatial contextual awareness	fiduciary marker	4
+spatial contextual awareness	human-computer interaction	4
+spatial contextual awareness	location awareness	4
+spatial contextual awareness	location-based service	4
+spatial contextual awareness	sense of direction	4
+spatial contextual awareness	situational awareness	4
+spatial contextual awareness	spatial ability	4
+spatial contextual awareness	spatial cognition	4
+spatial contextual awareness	topology	4
+spatial contextual awareness	ubiquitous computing	4
+sequential minimal optimization	kernel perceptron	4
+relevance vector machine	kernel trick	4
+relevance vector machine	platt scaling	4
+predictive analytics	actuarial science	4
+predictive analytics	artificial intelligence in healthcare	4
+predictive analytics	analytical procedures (finance auditing)	4
+predictive analytics	big data	4
+predictive analytics	computational sociology	4
+predictive analytics	criminal reduction utilising statistical history	4
+predictive analytics	decision management	4
+predictive analytics	disease surveillance	4
+predictive analytics	learning analytics	4
+predictive analytics	odds algorithm	4
+predictive analytics	pattern recognition	4
+predictive analytics	predictive inference	4
+predictive analytics	predictive policing	4
+predictive analytics	social media analytics	4
+platt scaling	relevance vector machine	4
+kernel machines	kernel methods for vector output	4
+kernel machines	kernel density estimation	4
+kernel machines	representer theorem	4
+kernel machines	similarity learning	4
+kernel machines	cover's theorem	4
+fisher kernel	fisher information metric	4
+in situ adaptive tabulation	predictive analytics	4
+in situ adaptive tabulation	radial basis function network	4
+in situ adaptive tabulation	recurrent neural networks	4
+in situ adaptive tabulation	support vector machine	4
+in situ adaptive tabulation	tensor product network	4
+response surface methodology	box–behnken design	3
+response surface methodology	central composite design	3
+response surface methodology	gradient-enhanced kriging	3
+response surface methodology	ioso	3
+response surface methodology	optimal design	3
+response surface methodology	plackett–burman design	3
+response surface methodology	polynomial and rational function modeling	3
+response surface methodology	polynomial regression	3
+response surface methodology	probabilistic design	3
+response surface methodology	surrogate model	3
+response surface methodology	bayesian optimization	3
+performance tuning	performance application programming interface	3
+multiphysics	finite difference time-domain method	3
+mirror neuron	associative sequence learning	3
+mirror neuron	common coding theory	3
+mirror neuron	emotional contagion	3
+mirror neuron	empathy	3
+mirror neuron	mirror-touch synesthesia	3
+mirror neuron	mirroring (psychology)	3
+mirror neuron	motor cognition	3
+mirror neuron	motor theory of speech perception	3
+mirror neuron	on intelligence	3
+mirror neuron	positron emission tomography	3
+mirror neuron	simulation theory of empathy	3
+mirror neuron	speech repetition	3
+mirror neuron	spindle neuron	3
+model-dependent realism	all models are wrong	3
+model-dependent realism	commensurability (philosophy of science)	3
+model-dependent realism	conceptualist realism	3
+model-dependent realism	constructivist epistemology	3
+model-dependent realism	fallibilism	3
+model-dependent realism	internal realism	3
+model-dependent realism	instrumentalism	3
+model-dependent realism	models of scientific inquiry	3
+model-dependent realism	ontological pluralism	3
+model-dependent realism	philosophical realism	3
+model-dependent realism	pragmatism	3
+model-dependent realism	scientific perspectivism	3
+model-dependent realism	scientific realism	3
+model-dependent realism	space mapping	3
+finite difference time-domain method	computational electromagnetics	4
+finite difference time-domain method	eigenmode expansion	4
+finite difference time-domain method	beam propagation method	4
+finite difference time-domain method	finite-difference frequency-domain	4
+finite difference time-domain method	finite element method	4
+finite difference time-domain method	scattering-matrix method	4
+finite difference time-domain method	discrete dipole approximation	4
+bayesian optimization	multi-armed bandit	4
+bayesian optimization	kriging	4
+bayesian optimization	thompson sampling	4
+bayesian optimization	global optimization	4
+bayesian optimization	bayesian experimental design	4
+bayesian optimization	probabilistic numerics	4
+bayesian optimization	pareto optimum	4
+bayesian optimization	active learning (machine learning)	4
+bayesian optimization	multi-objective optimization	4
+performance application programming interface	profiling (computer programming)	4
+scientific realism	anti-realism	4
+scientific realism	constructivist epistemology	4
+scientific realism	critical realism (philosophy of perception)	4
+scientific realism	dialectical materialism	4
+scientific realism	instrumentalism	4
+scientific realism	musgrave's scientific realism	4
+scientific realism	naïve realism	4
+scientific realism	pessimistic induction	4
+scientific realism	scientific materialism	4
+scientific realism	scientific perspectivism	4
+scientific realism	social constructionism	4
+philosophical realism	anti-realism	4
+philosophical realism	critical realism (philosophy of perception)	4
+philosophical realism	dialectical realism	4
+philosophical realism	epistemological realism	4
+philosophical realism	extended modal realism	4
+philosophical realism	legal realism	4
+philosophical realism	modal realism	4
+philosophical realism	objectivism	4
+philosophical realism	philosophy of social science	4
+philosophical realism	principle of bivalence	4
+philosophical realism	problem of future contingents	4
+philosophical realism	truth-value link realism	4
+philosophical realism	speculative realism	4
+philosophical realism	direct and indirect realism	4
+scientific perspectivism	anekantavada	4
+scientific perspectivism	mahavira	4
+scientific perspectivism	blind men and an elephant	4
+scientific perspectivism	conceptual framework	4
+scientific perspectivism	consilience	4
+scientific perspectivism	constructivist epistemology	4
+scientific perspectivism	eclecticism	4
+scientific perspectivism	fallibilism	4
+scientific perspectivism	fusion of horizons	4
+scientific perspectivism	intersubjectivity	4
+scientific perspectivism	metaphilosophy	4
+scientific perspectivism	model-dependent realism	4
+scientific perspectivism	moral nihilism	4
+scientific perspectivism	moral skepticism	4
+scientific perspectivism	multiperspectivalism	4
+scientific perspectivism	calvinist	4
+scientific perspectivism	philosophy of friedrich nietzsche	4
+scientific perspectivism	point of view (philosophy)	4
+scientific perspectivism	rhizome (philosophy)	4
+scientific perspectivism	standpoint theory	4
+scientific perspectivism	value pluralism	4
+ontological pluralism	anekantavada	4
+ontological pluralism	legal pluralism	4
+ontological pluralism	nelson goodman	4
+ontological pluralism	panarchy (political philosophy)	4
+ontological pluralism	pantheism	4
+ontological pluralism	pluralism (political philosophy)	4
+ontological pluralism	pluralism (political theory)	4
+ontological pluralism	postmodernism	4
+ontological pluralism	quantifier variance	4
+ontological pluralism	religious pluralism	4
+ontological pluralism	value pluralism	4
+instrumentalism	instrumental and value rationality	4
+instrumentalism	instrumental and intrinsic value	4
+instrumentalism	natural kind	4
+instrumentalism	fact–value distinction	4
+instrumentalism	inductive reasoning	4
+models of scientific inquiry	deductive-nomological	4
+models of scientific inquiry	explanandum and explanans	4
+models of scientific inquiry	hypothetico-deductive method	4
+models of scientific inquiry	inquiry	4
+internal realism	american philosophy	4
+constructivist epistemology	autopoiesis	4
+constructivist epistemology	consensus reality	4
+constructivist epistemology	constructivism in international relations	4
+constructivist epistemology	cultural pluralism	4
+constructivist epistemology	epistemological pluralism	4
+constructivist epistemology	tinkerbell effect	4
+constructivist epistemology	map–territory relation	4
+constructivist epistemology	meaning making	4
+constructivist epistemology	metacognition	4
+constructivist epistemology	ontological pluralism	4
+constructivist epistemology	personal construct psychology	4
+constructivist epistemology	perspectivism	4
+constructivist epistemology	pragmatism	4
+fallibilism	defeasible reasoning	4
+fallibilism	logical holism	4
+fallibilism	nihilism	4
+fallibilism	multiverse (set theory)	4
+fallibilism	pancritical rationalism	4
+fallibilism	perspectivism	4
+fallibilism	probabilism	4
+fallibilism	projectivism	4
+conceptualist realism	anti-realism	4
+conceptualist realism	critical realism (philosophy of perception)	4
+conceptualist realism	dialectical realism	4
+conceptualist realism	epistemological realism	4
+conceptualist realism	extended modal realism	4
+conceptualist realism	legal realism	4
+conceptualist realism	modal realism	4
+conceptualist realism	objectivism	4
+conceptualist realism	philosophy of social science	4
+conceptualist realism	principle of bivalence	4
+conceptualist realism	problem of future contingents	4
+conceptualist realism	truth-value link realism	4
+conceptualist realism	speculative realism	4
+conceptualist realism	direct and indirect realism	4
+simulation theory of empathy	mentalization	4
+simulation theory of empathy	moral emotions	4
+simulation theory of empathy	perspective-taking	4
+simulation theory of empathy	social emotions	4
+simulation theory of empathy	theory of mind	4
+speech repetition	alan baddeley	4
+speech repetition	auditory processing disorder	4
+speech repetition	baddeley's model of working memory	4
+speech repetition	conduction aphasia	4
+speech repetition	developmental verbal dyspraxia	4
+speech repetition	echoic memory	4
+speech repetition	echolalia	4
+speech repetition	language development	4
+speech repetition	language acquisition	4
+speech repetition	language-based learning disability	4
+speech repetition	mirror neurons	4
+speech repetition	mirroring (psychology)	4
+speech repetition	motor cognition	4
+speech repetition	motor theory of speech perception	4
+speech repetition	origin of language	4
+speech repetition	passive speakers (language)	4
+speech repetition	phonological development	4
+speech repetition	pronunciation	4
+speech repetition	second-language acquisition	4
+speech repetition	short-term memory	4
+speech repetition	speech perception	4
+speech repetition	thematic coherence	4
+speech repetition	transcortical motor aphasia	4
+speech repetition	transcortical sensory aphasia	4
+speech repetition	vocabulary	4
+speech repetition	vocal learning	4
+on intelligence	hierarchical temporal memory	4
+on intelligence	memory-prediction framework	4
+motor theory of speech perception	cohort model	4
+motor theory of speech perception	speech recognition	4
+motor theory of speech perception	auditory phonetics	4
+motor theory of speech perception	trace (psycholinguistics)	4
+motor theory of speech perception	haskins laboratories	4
+motor cognition	cognitive science	4
+motor cognition	embodied cognition	4
+motor cognition	embodied embedded cognition	4
+motor cognition	motor imagery	4
+motor cognition	pragmatism	4
+motor cognition	procedural memory	4
+positron emission tomography	diffuse optical imaging	4
+positron emission tomography	hot cell	4
+positron emission tomography	molecular imaging	4
+mirroring (psychology)	amygdala hijack	4
+mirroring (psychology)	kinesthetic learning	4
+mirroring (psychology)	nonverbal communication	4
+emotional contagion	affective neuroscience	4
+emotional contagion	autism	4
+emotional contagion	behavioral contagion	4
+emotional contagion	common coding theory	4
+emotional contagion	emotional detachment	4
+emotional contagion	emotional competence	4
+emotional contagion	folie à deux	4
+emotional contagion	groupthink	4
+emotional contagion	limbic resonance	4
+emotional contagion	limbic regulation	4
+emotional contagion	mass psychogenic illness	4
+emotional contagion	microexpression	4
+emotional contagion	mirror-touch synesthesia	4
+emotional contagion	peer contagion	4
+emotional contagion	peer pressure	4
+emotional contagion	projective identification	4
+emotional contagion	social contagion	4
+emotional contagion	social neuroscience	4
+emotional contagion	viral phenomenon	4
+common coding theory	affective neuroscience	4
+common coding theory	embodied cognition	4
+common coding theory	empathy	4
+common coding theory	lawrence w. barsalou	4
+common coding theory	mental practice of action	4
+common coding theory	motor cognition	4
+common coding theory	motor imagery	4
+common coding theory	neuroscience	4
+common coding theory	pragmatism	4
+common coding theory	predictive coding	4
+common coding theory	roger sperry	4
+common coding theory	social cognition	4
+common coding theory	vittorio guidano	4
+common coding theory	william james	4
+surrogate model	linear approximation	4
+surrogate model	response surface methodology	4
+surrogate model	kriging	4
+surrogate model	radial basis function	4
+surrogate model	gradient-enhanced kriging	4
+surrogate model	optiy	4
+surrogate model	space mapping	4
+surrogate model	surrogate endpoint	4
+surrogate model	surrogate data	4
+surrogate model	fitness approximation	4
+surrogate model	computer experiment	4
+surrogate model	conceptual model	4
+surrogate model	bayesian regression	4
+surrogate model	bayesian model selection	4
+associative sequence learning	mirror neuron	4
+probabilistic design	interval finite element	4
+probabilistic design	stochastic modelling (insurance)	4
+probabilistic design	first-order second-moment method	4
+probabilistic design	weibull distribution	4
+polynomial regression	curve fitting	4
+polynomial regression	line regression	4
+polynomial regression	local polynomial regression	4
+polynomial regression	polynomial and rational function modeling	4
+polynomial regression	polynomial interpolation	4
+polynomial regression	response surface methodology	4
+polynomial regression	smoothing spline	4
+polynomial and rational function modeling	response surface methodology	4
+polynomial and rational function modeling	padé approximant	4
+optimal design	bayesian experimental design	4
+optimal design	blocking (statistics)	4
+optimal design	computer experiment	4
+optimal design	convex function	4
+optimal design	convex optimization	4
+optimal design	design of experiments	4
+optimal design	efficiency (statistics)	4
+optimal design	entropy (information theory)	4
+optimal design	fisher information	4
+optimal design	glossary of experimental design	4
+optimal design	hadamard's maximal determinant problem	4
+optimal design	information theory	4
+optimal design	jack kiefer (mathematician)	4
+optimal design	replication (statistics)	4
+optimal design	response surface methodology	4
+optimal design	statistical model	4
+optimal design	abraham wald	4
+optimal design	jacob wolfowitz	4
+mental rotation	mental event	3
+mental rotation	space mapping	3
+mental model	all models are wrong	3
+mental model	cognitive map	3
+mental model	cognitive psychology	3
+mental model	conceptual model	3
+mental model	educational psychology	3
+mental model	folk psychology	3
+mental model	internal model (motor control)	3
+mental model	knowledge representation	3
+mental model	lovemap	3
+mental model	macrocognition	3
+mental model	map–territory relation	3
+mental model	model-dependent realism	3
+mental model	neuro-linguistic programming	3
+mental model	neuroeconomics	3
+mental model	neuroplasticity	3
+mental model	ooda loop	3
+mental model	psyche (psychology)	3
+mental model	self-stereotyping	3
+mental model	social intuitionism	3
+mental model	space mapping	3
+mental model	system dynamics	3
+mental model	text and conversation theory	3
+machine learning	deep learning	3
+machine learning	artificial neural network	3
+machine learning	m-theory (learning framework)	3
+linear approximation	binomial approximation	3
+linear approximation	euler's method	3
+linear approximation	finite differences	3
+linear approximation	finite difference methods	3
+linear approximation	newton's method	3
+linear approximation	power series	3
+linear approximation	taylor series	3
+kriging	bayes linear statistics	3
+kriging	gaussian process	3
+kriging	multivariate interpolation	3
+kriging	nonparametric regression	3
+kriging	radial basis function interpolation	3
+kriging	space mapping	3
+kriging	spatial dependence	3
+kriging	variogram	3
+kriging	gradient-enhanced kriging	3
+kriging	surrogate model	3
+kriging	information field theory	3
+artificial neural network	adaline	4
+artificial neural network	autoencoder	4
+artificial neural network	bio-inspired computing	4
+artificial neural network	blue brain project	4
+artificial neural network	catastrophic interference	4
+artificial neural network	cognitive architecture	4
+artificial neural network	connectionist expert system	4
+artificial neural network	connectomics	4
+artificial neural network	deep image prior	4
+artificial neural network	digital morphogenesis	4
+artificial neural network	efficiently updatable neural network	4
+artificial neural network	evolutionary algorithm	4
+artificial neural network	genetic algorithm	4
+artificial neural network	hyperdimensional computing	4
+artificial neural network	in situ adaptive tabulation	4
+artificial neural network	large width limits of neural networks	4
+artificial neural network	memristor	4
+artificial neural network	neural gas	4
+artificial neural network	neural network software	4
+artificial neural network	optical neural network	4
+artificial neural network	parallel distributed processing	4
+artificial neural network	philosophy of artificial intelligence	4
+artificial neural network	predictive analytics	4
+artificial neural network	quantum neural network	4
+artificial neural network	support vector machine	4
+artificial neural network	spiking neural network	4
+artificial neural network	stochastic parrot	4
+artificial neural network	tensor product network	4
+information field theory	bayesian inference	4
+information field theory	bayesian hierarchical modeling	4
+information field theory	gaussian process	4
+information field theory	statistical inference	4
+spatial dependence	buffer analysis	4
+spatial dependence	cartography	4
+spatial dependence	complete spatial randomness	4
+spatial dependence	concepts and techniques in modern geography	4
+spatial dependence	cost distance analysis	4
+spatial dependence	four traditions of geography	4
+spatial dependence	geocomputation	4
+spatial dependence	geospatial intelligence	4
+spatial dependence	geospatial predictive modeling	4
+spatial dependence	de-9im	4
+spatial dependence	geographic information science	4
+spatial dependence	mathematical statistics	4
+spatial dependence	modifiable areal unit problem	4
+spatial dependence	modifiable temporal unit problem	4
+spatial dependence	neighborhood effect averaging problem	4
+spatial dependence	point process	4
+spatial dependence	proximity analysis	4
+spatial dependence	spatial descriptive statistics	4
+spatial dependence	spatial relation	4
+spatial dependence	technical geography	4
+spatial dependence	terrain analysis	4
+spatial dependence	tobler's first law of geography	4
+spatial dependence	tobler's second law of geography	4
+spatial dependence	boundary problem (in spatial analysis)	4
+spatial dependence	extrapolation domain analysis	4
+spatial dependence	fuzzy architectural spatial analysis	4
+spatial dependence	geodemographic segmentation	4
+spatial dependence	geographic information systems	4
+spatial dependence	geoinformatics	4
+spatial dependence	geostatistics	4
+spatial dependence	permeability (spatial and transport planning)	4
+spatial dependence	spatial econometrics	4
+spatial dependence	spatial epidemiology	4
+spatial dependence	suitability analysis	4
+spatial dependence	viewshed analysis	4
+radial basis function interpolation	kriging	4
+multivariate interpolation	smoothing	4
+multivariate interpolation	surface fitting	4
+bayes linear statistics	imprecise probability	4
+gaussian process	bayes linear statistics	4
+gaussian process	bayesian interpretation of regularization	4
+gaussian process	kriging	4
+gaussian process	gaussian free field	4
+gaussian process	gauss–markov process	4
+gaussian process	gradient-enhanced kriging	4
+gaussian process	student's t-distribution	4
+nonparametric regression	lasso (statistics)	4
+nonparametric regression	local regression	4
+nonparametric regression	non-parametric statistics	4
+nonparametric regression	semiparametric regression	4
+nonparametric regression	isotonic regression	4
+nonparametric regression	multivariate adaptive regression splines	4
+taylor series	asymptotic expansion	4
+taylor series	newton polynomial	4
+taylor series	padé approximant	4
+taylor series	approximation theory	4
+taylor series	function approximation	4
+finite difference methods	finite element method	4
+finite difference methods	finite difference	4
+finite difference methods	finite difference time domain	4
+finite difference methods	infinite difference method	4
+finite difference methods	stencil (numerical analysis)	4
+finite difference methods	finite difference coefficients	4
+finite difference methods	five-point stencil	4
+finite difference methods	lax–richtmyer theorem	4
+finite difference methods	finite difference methods for option pricing	4
+finite difference methods	upwind differencing scheme for convection	4
+finite difference methods	central differencing scheme	4
+finite difference methods	discrete poisson equation	4
+finite difference methods	discrete laplace operator	4
+euler's method	crank–nicolson method	4
+euler's method	gradient descent	4
+euler's method	linear multistep method	4
+euler's method	numerical integration	4
+euler's method	numerical methods for ordinary differential equations	4
+finite differences	discrete calculus	4
+finite differences	divided differences	4
+finite differences	finite-difference time-domain method	4
+finite differences	finite volume method	4
+finite differences	ftcs scheme	4
+finite differences	gilbreath's conjecture	4
+finite differences	sheffer sequence	4
+finite differences	summation by parts	4
+finite differences	time scale calculus	4
+finite differences	upwind differencing scheme for convection	4
+text and conversation theory	tacit knowledge	4
+text and conversation theory	explicit knowledge	4
+text and conversation theory	conversation theory	4
+text and conversation theory	mental model	4
+text and conversation theory	organizational structure	4
+text and conversation theory	organizational culture	4
+text and conversation theory	organizational communication	4
+text and conversation theory	sensemaking	4
+text and conversation theory	structuration theory	4
+system dynamics	causal loop diagram	4
+system dynamics	comparison of system dynamics software	4
+system dynamics	ecosystem model	4
+system dynamics	plateau principle	4
+system dynamics	system archetype	4
+system dynamics	system dynamics society	4
+system dynamics	twelve leverage points	4
+system dynamics	wicked problem	4
+system dynamics	world3	4
+system dynamics	population dynamics	4
+system dynamics	predator-prey interaction	4
+system dynamics	dynamical systems theory	4
+system dynamics	grey box model	4
+system dynamics	operations research	4
+system dynamics	social dynamics	4
+system dynamics	system identification	4
+system dynamics	systems theory	4
+system dynamics	systems thinking	4
+system dynamics	cybernetics	4
+system dynamics	triz	4
+system dynamics	jay forrester	4
+system dynamics	dennis meadows	4
+system dynamics	donella meadows	4
+system dynamics	peter senge	4
+system dynamics	graeme snooks	4
+system dynamics	john sterman	4
+social intuitionism	contagion heuristic	4
+social intuitionism	dual process theory (moral psychology)	4
+social intuitionism	ethical intuitionism	4
+social intuitionism	moral emotions	4
+social intuitionism	moral foundations theory	4
+social intuitionism	moral sense theory	4
+self-stereotyping	social identity threat	4
+self-stereotyping	social identity theory	4
+self-stereotyping	social identity approach	4
+ooda loop	decision cycle	4
+ooda loop	double-loop learning	4
+ooda loop	feedback loop	4
+ooda loop	dmaic	4
+ooda loop	pdca	4
+ooda loop	learning cycle	4
+ooda loop	maneuver warfare	4
+ooda loop	mental model	4
+ooda loop	nursing process	4
+ooda loop	problem solving	4
+ooda loop	situation awareness	4
+ooda loop	swot analysis	4
+ooda loop	united states army strategist	4
+psyche (psychology)	ego death	4
+psyche (psychology)	human spirit	4
+psyche (psychology)	inscape (visual art)	4
+psyche (psychology)	motivation	4
+psyche (psychology)	nafs	4
+psyche (psychology)	persona	4
+psyche (psychology)	persona (psychology)	4
+psyche (psychology)	reincarnation	4
+psyche (psychology)	psychosis	4
+psyche (psychology)	tulpa	4
+newton's method	aitken's delta-squared process	4
+newton's method	bisection method	4
+newton's method	euler method	4
+newton's method	fast inverse square root	4
+newton's method	scoring algorithm	4
+newton's method	gradient descent	4
+newton's method	integer square root	4
+newton's method	kantorovich theorem	4
+newton's method	laguerre's method	4
+newton's method	methods of computing square roots	4
+newton's method	newton's method in optimization	4
+newton's method	richardson extrapolation	4
+newton's method	root-finding algorithm	4
+newton's method	secant method	4
+newton's method	steffensen's method	4
+newton's method	subgradient method	4
+neuroplasticity	activity-dependent plasticity	4
+neuroplasticity	brain training	4
+neuroplasticity	environmental enrichment (neural)	4
+neuroplasticity	neural backpropagation	4
+neuroplasticity	neuronal sprouting	4
+neuroplasticity	neuroplastic effects of pollution	4
+neuroplasticity	psychoplastogen	4
+neuroplasticity	psychedelic drug	4
+neuroplasticity	kinesiology	4
+neuroplasticity	spike-timing-dependent plasticity	4
+neuroeconomics	journal of neuroscience, psychology, and economics	4
+neuro-linguistic programming	avatar course	4
+neuro-linguistic programming	family systems therapy	4
+neuro-linguistic programming	frank farrelly	4
+neuro-linguistic programming	solution-focused brief therapy	4
+neuro-linguistic programming	steve andreas	4
+neuro-linguistic programming	paul mckenna	4
+map–territory relation	all models are wrong	4
+map–territory relation	allegory of the cave	4
+map–territory relation	blind men and an elephant	4
+map–territory relation	direct and indirect realism	4
+map–territory relation	emic and etic	4
+map–territory relation	fallacy of misplaced concreteness	4
+map–territory relation	good regulator	4
+map–territory relation	knowledge argument	4
+map–territory relation	ludic fallacy	4
+map–territory relation	mental model	4
+map–territory relation	mind projection fallacy	4
+map–territory relation	nominalism	4
+map–territory relation	non-aristotelian logic	4
+map–territory relation	on the content and object of presentations	4
+map–territory relation	philosophy of perception	4
+map–territory relation	reification (fallacy)	4
+map–territory relation	signified and signifier	4
+map–territory relation	social constructionism	4
+map–territory relation	structural differential	4
+map–territory relation	surrogation	4
+map–territory relation	unintended consequences	4
+map–territory relation	use–mention distinction	4
+map–territory relation	when a white horse is not a horse	4
+folk psychology	common sense	4
+folk psychology	intentional stance	4
+folk psychology	popular psychology	4
+folk psychology	theory of mind	4
+lovemap	erotic plasticity	4
+lovemap	mental model	4
+lovemap	sexual script theory	4
+lovemap	david reimer	4
+cognitive psychology	cognition	4
+cognitive psychology	cognitive bias	4
+cognitive psychology	cognitive biology	4
+cognitive psychology	cognitive description	4
+cognitive psychology	cognitive development	4
+cognitive psychology	cognitive interventions	4
+cognitive psychology	cognitive module	4
+cognitive psychology	cognitive neuropsychology	4
+cognitive psychology	cognitive poetics	4
+cognitive psychology	cognitive robotics	4
+cognitive psychology	connectionism	4
+cognitive psychology	discursive psychology	4
+cognitive psychology	ecological psychology	4
+cognitive psychology	evolutionary psychology	4
+cognitive psychology	fuzzy-trace theory	4
+cognitive psychology	genetic epistemology	4
+cognitive psychology	information processing (psychology)	4
+cognitive psychology	artificial intelligence	4
+cognitive psychology	intertrial priming	4
+cognitive psychology	models of abnormality	4
+cognitive psychology	neurocognitive	4
+cognitive psychology	perceptual control theory	4
+cognitive psychology	personal information management	4
+cognitive psychology	psychological adaptation	4
+cognitive psychology	rubicon model (psychology)	4
+cognitive psychology	situated cognition	4
+cognitive psychology	social cognition	4
+cognitive psychology	water-level task	4
+macrocognition	metacognition	4
+macrocognition	naturalistic decision-making	4
+macrocognition	karol g. ross	4
+knowledge representation	alphabet of human thought	4
+knowledge representation	belief revision	4
+knowledge representation	chunking (psychology)	4
+knowledge representation	commonsense knowledge (artificial intelligence)	4
+knowledge representation	conceptual graph	4
+knowledge representation	dikw pyramid	4
+knowledge representation	datr	4
+knowledge representation	fo(.)	4
+knowledge representation	first-order logic	4
+knowledge representation	logic programming	4
+knowledge representation	logico-linguistic modeling	4
+knowledge representation	knowledge graph	4
+knowledge representation	knowledge management	4
+knowledge representation	mind map	4
+knowledge representation	semantic technology	4
+knowledge representation	valuation-based system	4
+internal model (motor control)	repetitive control	4
+internal model (motor control)	efference copy	4
+conceptual model	concept	4
+conceptual model	concept mapping	4
+conceptual model	conceptual framework	4
+conceptual model	conceptual model (computer science)	4
+conceptual model	conceptual schema	4
+conceptual model	conceptual system	4
+conceptual model	digital twin	4
+conceptual model	information model	4
+conceptual model	international conference on conceptual modeling	4
+conceptual model	interpretation (logic)	4
+conceptual model	isolated system	4
+conceptual model	ontology (computer science)	4
+conceptual model	paradigm	4
+conceptual model	physical model	4
+conceptual model	process of concept formation	4
+conceptual model	scientific modeling	4
+conceptual model	simulation	4
+conceptual model	theory	4
+finite element method	applied element method	3
+finite element method	boundary element method	3
+finite element method	céa's lemma	3
+finite element method	computer experiment	3
+finite element method	direct stiffness method	3
+finite element method	discontinuity layout optimization	3
+finite element method	discrete element method	3
+finite element method	finite difference method	3
+finite element method	finite element machine	3
+finite element method	finite element method in structural mechanics	3
+finite element method	finite volume method	3
+finite element method	finite volume method for unsteady flow	3
+finite element method	infinite element method	3
+finite element method	interval finite element	3
+finite element method	isogeometric analysis	3
+finite element method	lattice boltzmann methods	3
+finite element method	meshfree methods	3
+finite element method	movable cellular automaton	3
+finite element method	multidisciplinary design optimization	3
+finite element method	multiphysics	3
+finite element method	patch test (finite elements)	3
+finite element method	rayleigh–ritz method	3
+finite element method	space mapping	3
+finite element method	strand7	3
+finite element method	tessellation (computer graphics)	3
+finite element method	weakened weak form	3
+mental event	mental function	4
+mental event	mental operations	4
+mental event	mental rotation	4
+mental event	functional neuroimaging	4
+mental event	noumenon	4
+mental event	psychedelic experience	4
+mental event	synchronicity	4
+mental event	working memory	4
+mental event	vertiginous question	4
+computer-aided design	library (computing)	3
+computer-aided design	cloud computing	3
+computer-aided design	software repository	3
+computer-aided design	3d modeling	3
+cognitive model	computational cognition	3
+cognitive model	computational models of language acquisition	3
+cognitive model	computational-representational understanding of mind	3
+cognitive model	mindmodeling@home	3
+cognitive model	memory-prediction framework	3
+cognitive model	space mapping	3
+computational electromagnetics	em simulation software	3
+computational electromagnetics	analytical regularization	3
+computational electromagnetics	computational physics	3
+computational electromagnetics	electromagnetic field solver	3
+computational electromagnetics	electromagnetic wave equation	3
+computational electromagnetics	finite-difference time-domain method	3
+computational electromagnetics	finite-difference frequency-domain	3
+computational electromagnetics	mie theory	3
+computational electromagnetics	physical optics	3
+computational electromagnetics	rigorous coupled-wave analysis	3
+computational electromagnetics	space mapping	3
+computational electromagnetics	uniform theory of diffraction	3
+computational electromagnetics	shooting and bouncing rays	3
+tessellation (computer graphics)	ati truform	4
+tessellation (computer graphics)	tessellation shader	4
+tessellation (computer graphics)	progressive mesh	4
+tessellation (computer graphics)	mesh generation	4
+tessellation (computer graphics)	tiled rendering	4
+weakened weak form	finite element method	4
+weakened weak form	meshfree methods	4
+weakened weak form	smoothed finite element method	4
+3d modeling	3d city model	4
+3d modeling	3d computer graphics software	4
+3d modeling	3d figure	4
+3d modeling	3d printing	4
+3d modeling	3d scanner	4
+3d modeling	3d scanning	4
+3d modeling	additive manufacturing file format	4
+3d modeling	building information modeling	4
+3d modeling	cg artist	4
+3d modeling	cloth modeling	4
+3d modeling	computer facial animation	4
+3d modeling	cornell box	4
+3d modeling	digital geometry	4
+3d modeling	edge loop	4
+3d modeling	environment artist	4
+3d modeling	geologic modelling	4
+3d modeling	holography	4
+3d modeling	industrial ct scanning	4
+3d modeling	marching cubes	4
+3d modeling	open cascade	4
+3d modeling	polygon mesh	4
+3d modeling	polygonal modeling	4
+3d modeling	ray tracing (graphics)	4
+3d modeling	scaling (geometry)	4
+3d modeling	siggraph	4
+3d modeling	stanford bunny	4
+3d modeling	triangle mesh	4
+3d modeling	utah teapot	4
+3d modeling	voxel	4
+3d modeling	b-rep	4
+uniform theory of diffraction	electromagnetic modeling	4
+uniform theory of diffraction	biot–tolstoy–medwin diffraction model	4
+shooting and bouncing rays	computational electromagnetics	4
+physical optics	optical physics	4
+physical optics	electromagnetic modeling	4
+physical optics	fourier optics	4
+physical optics	history of optics	4
+physical optics	negative-index metamaterials	4
+rigorous coupled-wave analysis	finite-difference time-domain	4
+finite-difference frequency-domain	finite-difference time-domain method	4
+finite-difference frequency-domain	finite element method	4
+finite-difference time-domain method	computational electromagnetics	4
+finite-difference time-domain method	eigenmode expansion	4
+finite-difference time-domain method	beam propagation method	4
+finite-difference time-domain method	finite-difference frequency-domain	4
+finite-difference time-domain method	finite element method	4
+finite-difference time-domain method	scattering-matrix method	4
+finite-difference time-domain method	discrete dipole approximation	4
+mie theory	codes for electromagnetic scattering by spheres	4
+mie theory	computational electromagnetics	4
+mie theory	light scattering by particles	4
+mie theory	optical properties of water and ice	4
+electromagnetic wave equation	maxwell's equations	4
+electromagnetic wave equation	wave equation	4
+electromagnetic wave equation	partial differential equation	4
+electromagnetic wave equation	computational electromagnetics	4
+electromagnetic wave equation	electromagnetic radiation	4
+electromagnetic wave equation	charge conservation	4
+electromagnetic wave equation	light	4
+electromagnetic wave equation	electromagnetic spectrum	4
+electromagnetic wave equation	optics	4
+electromagnetic wave equation	special relativity	4
+electromagnetic wave equation	general relativity	4
+electromagnetic wave equation	inhomogeneous electromagnetic wave equation	4
+electromagnetic wave equation	photon polarization	4
+electromagnetic wave equation	larmor formula	4
+electromagnetic wave equation	rainbow	4
+electromagnetic wave equation	cosmic microwave background	4
+electromagnetic wave equation	laser	4
+electromagnetic wave equation	laser fusion	4
+electromagnetic wave equation	photography	4
+electromagnetic wave equation	x-ray	4
+electromagnetic wave equation	x-ray crystallography	4
+electromagnetic wave equation	radar	4
+electromagnetic wave equation	radio wave	4
+electromagnetic wave equation	optical computing	4
+electromagnetic wave equation	microwave	4
+electromagnetic wave equation	holography	4
+electromagnetic wave equation	microscope	4
+electromagnetic wave equation	telescope	4
+electromagnetic wave equation	gravitational lens	4
+electromagnetic wave equation	black-body radiation	4
+electromagnetic wave equation	andré-marie ampère	4
+electromagnetic wave equation	albert einstein	4
+electromagnetic wave equation	michael faraday	4
+electromagnetic wave equation	heinrich hertz	4
+electromagnetic wave equation	oliver heaviside	4
+electromagnetic wave equation	james clerk maxwell	4
+electromagnetic wave equation	hendrik lorentz	4
+electromagnetic field solver	computational electromagnetics	4
+electromagnetic field solver	electronic design automation	4
+electromagnetic field solver	integrated circuit design	4
+electromagnetic field solver	standard parasitic exchange format	4
+electromagnetic field solver	teledeltos	4
+memory-prediction framework	adaptive resonance theory	4
+memory-prediction framework	stephen grossberg	4
+memory-prediction framework	computational neuroscience	4
+memory-prediction framework	neural darwinism	4
+memory-prediction framework	predictive coding	4
+memory-prediction framework	predictive learning	4
+memory-prediction framework	sparse distributed memory	4
+computational-representational understanding of mind	cognitive science	4
+computational-representational understanding of mind	computational neuroscience	4
+computational physics	advanced simulation library	4
+computational physics	cecam	4
+computational physics	dcomp	4
+computational physics	american physical society	4
+computational physics	mathematical physics	4
+computational physics	theoretical physics	4
+computational physics	open source physics	4
+computational physics	timeline of computational physics	4
+computational physics	car–parrinello molecular dynamics	4
+computational cognition	artificial neural network	4
+computational cognition	mathematical psychology	4
+software repository	package manager	4
+software repository	rpm package manager	4
+software repository	synaptic (software)	4
+software repository	freebsd ports	4
+software repository	definitive media library	4
+software repository	dpkg	4
+software repository	simtel	4
+software repository	aptoncd	4
+cloud computing	as a service	4
+cloud computing	block-level storage	4
+cloud computing	browser-based computing	4
+cloud computing	cloud broker	4
+cloud computing	cloud collaboration	4
+cloud computing	cloud-computing comparison	4
+cloud computing	cloud computing security	4
+cloud computing	cloud gaming	4
+cloud computing	cloud management	4
+cloud computing	cloud-native computing	4
+cloud computing	cloud research	4
+cloud computing	cloud robotics	4
+cloud computing	cloud storage	4
+cloud computing	cloud-to-cloud integration	4
+cloud computing	cloudlet	4
+cloud computing	computer cluster	4
+cloud computing	cooperative storage cloud	4
+cloud computing	decentralized computing	4
+cloud computing	desktop virtualization	4
+cloud computing	dew computing	4
+cloud computing	directory (computing)	4
+cloud computing	distributed data store	4
+cloud computing	distributed database	4
+cloud computing	distributed computing	4
+cloud computing	distributed networking	4
+cloud computing	e-science	4
+cloud computing	edge computing	4
+cloud computing	edge device	4
+cloud computing	file system	4
+cloud computing	clustered file system	4
+cloud computing	distributed file system	4
+cloud computing	distributed file system for cloud	4
+cloud computing	fog computing	4
+cloud computing	fog robotics	4
+cloud computing	green computing	4
+cloud computing	environmentally sustainable	4
+cloud computing	grid computing	4
+cloud computing	in-memory database	4
+cloud computing	in-memory processing	4
+cloud computing	internet of things	4
+cloud computing	iot security device	4
+cloud computing	knowledge as a service	4
+cloud computing	microservices	4
+cloud computing	mobile cloud computing	4
+cloud computing	multi-access edge computing	4
+cloud computing	multisite cloud	4
+cloud computing	peer-to-peer	4
+cloud computing	personal cloud	4
+cloud computing	private cloud computing infrastructure	4
+cloud computing	robot as a service	4
+cloud computing	service-oriented architecture	4
+cloud computing	time-sharing	4
+cloud computing	ubiquitous computing	4
+cloud computing	virtual private cloud	4
+library (computing)	c++ standard library	4
+rayleigh–ritz method	rayleigh quotient	4
+rayleigh–ritz method	arnoldi iteration	4
+rayleigh–ritz method	sturm&ndash;liouville theory	4
+rayleigh–ritz method	hilbert space	4
+rayleigh–ritz method	galerkin method	4
+multidisciplinary design optimization	modefrontier	4
+multidisciplinary design optimization	pseven	4
+multidisciplinary design optimization	modelcenter	4
+multidisciplinary design optimization	openmdao	4
+multidisciplinary design optimization	gemseo	4
+multidisciplinary design optimization	hyperstudy	4
+meshfree methods	continuum mechanics	4
+meshfree methods	smoothed finite element method	4
+meshfree methods	g space	4
+meshfree methods	weakened weak form	4
+meshfree methods	boundary element method	4
+meshfree methods	immersed boundary method	4
+meshfree methods	stencil code	4
+meshfree methods	particle method	4
+interval finite element	interval boundary element method	4
+interval finite element	interval (mathematics)	4
+interval finite element	interval arithmetic	4
+interval finite element	imprecise probability	4
+interval finite element	multivalued function	4
+interval finite element	differential inclusion	4
+interval finite element	observational error	4
+interval finite element	random compact set	4
+interval finite element	reliability (statistics)	4
+interval finite element	confidence interval	4
+interval finite element	best, worst and average case	4
+interval finite element	probabilistic design	4
+interval finite element	propagation of uncertainty	4
+interval finite element	experimental uncertainty analysis	4
+interval finite element	sensitivity analysis	4
+interval finite element	perturbation theory	4
+interval finite element	continuum mechanics	4
+interval finite element	solid mechanics	4
+interval finite element	truss	4
+interval finite element	space frame	4
+interval finite element	linear elasticity	4
+interval finite element	strength of materials	4
+finite element method in structural mechanics	finite element method	4
+finite element method in structural mechanics	flexibility method	4
+finite element method in structural mechanics	matrix stiffness method	4
+finite element method in structural mechanics	modal analysis using fem	4
+finite element method in structural mechanics	structural analysis	4
+finite element method in structural mechanics	virtual work	4
+finite element method in structural mechanics	interval finite element	4
+finite element machine	minisupercomputer	4
+finite volume method	finite element method	4
+finite volume method	flux limiter	4
+finite volume method	godunov's scheme	4
+finite volume method	godunov's theorem	4
+finite volume method	high-resolution scheme	4
+finite volume method	kiva (software)	4
+finite volume method	mit general circulation model	4
+finite volume method	muscl scheme	4
+finite volume method	sergei k. godunov	4
+finite volume method	total variation diminishing	4
+finite volume method	finite volume method for unsteady flow	4
+finite difference method	finite element method	4
+finite difference method	finite difference	4
+finite difference method	finite difference time domain	4
+finite difference method	infinite difference method	4
+finite difference method	stencil (numerical analysis)	4
+finite difference method	finite difference coefficients	4
+finite difference method	five-point stencil	4
+finite difference method	lax–richtmyer theorem	4
+finite difference method	finite difference methods for option pricing	4
+finite difference method	upwind differencing scheme for convection	4
+finite difference method	central differencing scheme	4
+finite difference method	discrete poisson equation	4
+finite difference method	discrete laplace operator	4
+discrete element method	compaction simulation	4
+discrete element method	movable cellular automata	4
+direct stiffness method	finite element method	4
+direct stiffness method	finite element method in structural mechanics	4
+direct stiffness method	structural analysis	4
+direct stiffness method	flexibility method	4
+visual processing	visual agnosia	4
+visual processing	visual cortex	4
+visual processing	visual perception	4
+visual processing	visual system	4
+visual processing	predictive coding	4
+computer experiment	simulation	4
+computer experiment	uncertainty quantification	4
+computer experiment	bayesian statistics	4
+computer experiment	gaussian process emulator	4
+computer experiment	design of experiments	4
+computer experiment	molecular dynamics	4
+computer experiment	monte carlo method	4
+computer experiment	surrogate model	4
+computer experiment	grey box completion and validation	4
+computer experiment	artificial financial market	4
+boundary element method	analytic element method	4
+boundary element method	computational electromagnetics	4
+boundary element method	meshfree methods	4
+boundary element method	immersed boundary method	4
+boundary element method	stretched grid method	4
+boundary element method	modified radial integration method	4
+applied element method	building implosion	4
+applied element method	earthquake engineering	4
+applied element method	extreme loading for structures	4
+applied element method	failure analysis	4
+applied element method	multidisciplinary design optimization	4
+applied element method	physics engine	4
+applied element method	progressive collapse	4
+applied element method	shear modulus	4
+applied element method	structural engineering	4
+applied element method	young's modulus	4
+adaptive control	nonlinear control	3
+adaptive control	intelligent control	3
+adaptive control	lyapunov optimization	3
+visual modularity	heautoscopy	4
+visual modularity	modularity	4
+visual modularity	society of mind	4
+visual modularity	wiktionary:agent	4
+visual modularity	two streams hypothesis	4
+recovery from blindness	amblyopia	4
+recovery from blindness	blindsight	4
+recovery from blindness	hand-eye coordination	4
+recovery from blindness	stereopsis recovery	4
+scotopic sensitivity syndrome	semmelweis reflex	4
+prosopagnosia	alexithymia	4
+prosopagnosia	amygdala	4
+prosopagnosia	aphantasia	4
+prosopagnosia	cognitive neuropsychology	4
+prosopagnosia	covert facial recognition	4
+prosopagnosia	face perception	4
+prosopagnosia	fregoli delusion	4
+prosopagnosia	mirrored-self misidentification	4
+prosopagnosia	n170	4
+prosopagnosia	ken nakayama	4
+prosopagnosia	prosopamnesia	4
+prosopagnosia	prosopometamorphopsia	4
+prosopagnosia	recognition of human individuals	4
+prosopagnosia	social-emotional agnosia	4
+prosopagnosia	super recognisers	4
+prosopagnosia	temporal lobe epilepsy	4
+prosopagnosia	thatcher effect	4
+prosopagnosia	visual agnosia	4
+intelligent control	action selection	4
+intelligent control	ai effect	4
+intelligent control	applications of artificial intelligence	4
+intelligent control	artificial intelligence systems integration	4
+intelligent control	function approximation	4
+intelligent control	hybrid intelligent system	4
+nonlinear control	feedback passivation	4
+nonlinear control	phase-locked loop	4
+nonlinear control	small control property	4
+color balance	color cast	4
+color balance	color temperature	4
+color balance	gamma correction	4
+color balance	white point	4
+helmholtz–kohlrausch effect	color appearance model	4
+helmholtz–kohlrausch effect	bezold–brücke shift	4
+human echolocation	acoustic location	4
+human echolocation	sensory substitution	4
+human echolocation	thaandavam	4
+human echolocation	tamil language	4
+color blindness	color agnosia	4
+color blindness	color anomia	4
+color blindness	motion blindness	4
+color blindness	tetrachromacy	4
+astigmatism (eye)	near-sightedness	4
+astigmatism (eye)	far-sightedness	4
+asthenopia	astigmatism	4
+asthenopia	computer vision syndrome	4
+asthenopia	eye examination	4
+asthenopia	light-on-dark color scheme	4
+asthenopia	ocular neurosis	4
+asthenopia	photophobia	4
+asthenopia	vision therapy	4
+asthenopia	visual looming syndrome	4
+apperceptive agnosia	agnosia	4
+apperceptive agnosia	associative visual agnosia	4
+apperceptive agnosia	aphasia	4
+apperceptive agnosia	visual agnosia	4
+apperceptive agnosia	visual space	4
+apperceptive agnosia	patient df	4
+achromatopsia	elham mahamid ruzin	4
+visual cortex	cortical area	3
+visual cortex	cortical blindness	3
+visual cortex	feature integration theory	3
+visual cortex	retinotopy	3
+visual cortex	visual processing	3
+visual cortex	complex cell	3
+psychophysics	behavioral neuroscience	3
+psychophysics	binding problem	3
+psychophysics	mathematical neuroscience	3
+psychophysics	medical physics	3
+psychophysics	neurophysics	3
+psychophysics	perceptual psychology	3
+psychophysics	psychoacoustics	3
+psychophysics	physiological psychology	3
+psychophysics	sociophysics	3
+psychophysics	vision science	3
+optometry	eye care professional	3
+optometry	world council of optometry	3
+optometry	american academy of optometry	3
+optometry	behavioral optometry	3
+optometry	eyeglass prescription	3
+optometry	least distance of distinct vision	3
+optometry	ophthalmology	3
+optometry	visual neuroscience	3
+ophthalmology	book of the ten treatises of the eye	4
+ophthalmology	chinese ophthalmology	4
+ophthalmology	copiale cipher	4
+ophthalmology	american academy of ophthalmology	4
+ophthalmology	european board of ophthalmology	4
+ophthalmology	association for research in vision and ophthalmology	4
+ophthalmology	eyewiki	4
+ophthalmology	eye disease	4
+ophthalmology	eye surgery	4
+ophthalmology	optometry	4
+ophthalmology	orthoptics	4
+ophthalmology	eye care professional	4
+least distance of distinct vision	optometry	4
+least distance of distinct vision	far point	4
+least distance of distinct vision	snellen chart	4
+least distance of distinct vision	visual perception	4
+least distance of distinct vision	visual impairment	4
+behavioral optometry	bates method	4
+behavioral optometry	irlen syndrome	4
+behavioral optometry	journal of behavioral optometry	4
+behavioral optometry	reichian therapy	4
+behavioral optometry	visual snow	4
+american academy of optometry	optometry and vision science	4
+american academy of optometry	american optometric association	4
+american academy of optometry	college of optometrists in vision development	4
+primary colors	color vision	3
+primary colors	rgb color model	3
+primary colors	unique hues	3
+world council of optometry	american optometric association	4
+world council of optometry	eastern mediterranean council of optometry	4
+world council of optometry	european academy of optometry and optics	4
+eye care professional	american academy of ophthalmology	4
+eye care professional	american academy of optometry	4
+eye care professional	american association for pediatric ophthalmology and strabismus	4
+eye care professional	american optometric association	4
+eye care professional	british optical association	4
+eye care professional	college of optometrists	4
+eye care professional	college of optometrists in vision development	4
+eye care professional	international orthoptic association	4
+eye care professional	irish college of ophthalmologists	4
+eye care professional	joint commission on allied health personnel in ophthalmology	4
+eye care professional	optometric extension program	4
+eye care professional	royal college of ophthalmologists	4
+eye care professional	the institute of optometry	4
+eye care professional	world council of optometry	4
+eye care professional	worshipful company of spectacle makers	4
+sociophysics	historic recurrence	4
+sociophysics	logology (science)	4
+color vision	achromatopsia	4
+color vision	color theory	4
+color vision	the dress	4
+physiological psychology	cognitive neuroscience	4
+physiological psychology	psychophysics	4
+physiological psychology	psychophysiology	4
+psychoacoustics	cognitive neuroscience of music	4
+psychoacoustics	music psychology	4
+psychoacoustics	a-weighting	4
+psychoacoustics	transfer function	4
+psychoacoustics	abx test	4
+psychoacoustics	audiology	4
+psychoacoustics	auditory illusion	4
+psychoacoustics	auditory scene analysis	4
+psychoacoustics	binaural beats	4
+psychoacoustics	blind signal separation	4
+psychoacoustics	combination tone	4
+psychoacoustics	scale illusion	4
+psychoacoustics	equivalent rectangular bandwidth	4
+psychoacoustics	franssen effect	4
+psychoacoustics	glissando illusion	4
+psychoacoustics	hypersonic effect	4
+psychoacoustics	language processing	4
+psychoacoustics	levitin effect	4
+psychoacoustics	misophonia	4
+psychoacoustics	musical tuning	4
+psychoacoustics	noise health effects	4
+psychoacoustics	octave illusion	4
+psychoacoustics	pitch (music)	4
+psychoacoustics	precedence effect	4
+psychoacoustics	psycholinguistics	4
+psychoacoustics	rate-distortion theory	4
+psychoacoustics	sound localization	4
+psychoacoustics	sound of fingernails scraping chalkboard	4
+psychoacoustics	sound masking	4
+psychoacoustics	speech perception	4
+psychoacoustics	speech recognition	4
+psychoacoustics	timbre	4
+psychoacoustics	tritone paradox	4
+perceptual psychology	binding problem	4
+perceptual psychology	psychophysics	4
+perceptual psychology	physiological psychology	4
+perceptual psychology	sociophysics	4
+perceptual psychology	vision science	4
+mathematical neuroscience	brian (software)	4
+mathematical neuroscience	python (programming language)	4
+mathematical neuroscience	budapest reference connectome	4
+mathematical neuroscience	emergent (software)	4
+mathematical neuroscience	genesis (software)	4
+mathematical neuroscience	nest (software)	4
+rgb color model	cmy color model	4
+rgb color model	cmyk color model	4
+rgb color model	color theory	4
+rgb color model	colour banding	4
+rgb color model	complementary colors	4
+rgb color model	dci-p3	4
+rgb color model	prophoto rgb color space	4
+rgb color model	rg color models	4
+rgb color model	rgba color model	4
+rgb color model	scrgb	4
+rgb color model	tsl color space	4
+unique hues	color wheel	4
+unique hues	complementary colors	4
+unique hues	natural color system	4
+unique hues	psychophysics	4
+binding problem	artificial intelligence	4
+binding problem	frame problem	4
+binding problem	hard problem of consciousness	4
+binding problem	neural coding	4
+binding problem	philosophy of perception	4
+binding problem	problem of mental causation	4
+binding problem	symbol grounding	4
+binding problem	vertiginous question	4
+binding problem	synesthesia	4
+behavioral neuroscience	affective neuroscience	4
+behavioral neuroscience	behavioral genetics	4
+behavioral neuroscience	biological psychiatry	4
+behavioral neuroscience	biology	4
+behavioral neuroscience	biosemiotics	4
+behavioral neuroscience	cognitive neuroscience	4
+behavioral neuroscience	developmental psychobiology	4
+behavioral neuroscience	epigenetics in psychology	4
+behavioral neuroscience	evolutionary psychology	4
+behavioral neuroscience	models of abnormality	4
+behavioral neuroscience	neurobiology	4
+behavioral neuroscience	neuroethology	4
+behavioral neuroscience	physical anthropology	4
+behavioral neuroscience	psychoneuroimmunology	4
+behavioral neuroscience	psychopharmacology	4
+behavioral neuroscience	psychophysics	4
+behavioral neuroscience	social neuroscience	4
+behavioral neuroscience	neuroscience	4
+cortical blindness	blindsight	4
+retinotopy	biological neural network	4
+retinotopy	cortical magnification	4
+retinotopy	frontal eye field	4
+retinotopy	tonotopy	4
+retinotopy	visual space	4
+optical illusion	auditory illusion	3
+optical illusion	barberpole illusion	3
+optical illusion	camouflage	3
+optical illusion	chronostasis	3
+optical illusion	closed-eye hallucination	3
+optical illusion	contour rivalry	3
+optical illusion	ebbinghaus illusion	3
+optical illusion	emmert's law	3
+optical illusion	flashed face distortion effect	3
+optical illusion	fraser spiral illusion	3
+optical illusion	gravity hill	3
+optical illusion	infrasound	3
+optical illusion	hidden faces	3
+optical illusion	infinity edge pool	3
+optical illusion	kinetic depth effect	3
+optical illusion	mirage	3
+optical illusion	multistable perception	3
+optical illusion	rabbit–duck illusion	3
+optical illusion	silencing	3
+optical illusion	the dress (viral phenomenon)	3
+optical illusion	troxler's fading	3
+optical illusion	visual space	3
+optical illusion	watercolour illusion	3
+feature integration theory	binding problem	4
+feature integration theory	visual search	4
+cortical area	brain–computer interface	4
+cortical area	cortical dysplasia	4
+cortical area	cortical homunculus	4
+cortical area	eloquent cortex	4
+cortical area	emx1	4
+cortical area	gray matter heterotopia	4
+cortical area	limbic system	4
+cortical area	insular cortex	4
+watercolour illusion	amodal perception	4
+watercolour illusion	opponent process	4
+watercolour illusion	gestalt psychology	4
+watercolour illusion	figure–ground (perception)	4
+watercolour illusion	mach band	4
+watercolour illusion	neon color spreading	4
+watercolour illusion	perception	4
+watercolour illusion	visual perception	4
+troxler's fading	cognitive science	4
+troxler's fading	lilac chaser	4
+the dress (viral phenomenon)	checker shadow illusion	4
+the dress (viral phenomenon)	yanny or laurel	4
+silencing	change blindness	4
+multistable perception	cognitive neuroscience	4
+multistable perception	experimental psychology	4
+multistable perception	gestalt psychology	4
+multistable perception	op art	4
+multistable perception	salvador dalí	4
+mirage	atmospheric refraction	4
+mirage	looming and similar refraction phenomena	4
+kinetic depth effect	depth perception	4
+kinetic depth effect	optical illusion	4
+kinetic depth effect	structure from motion (psychophysics)	4
+kinetic depth effect	wiggle stereoscopy	4
+infinity edge pool	<!-- spillover -->spa	4
+hidden faces	anamorphosis	4
+hidden faces	anthropomorphism	4
+hidden faces	face perception	4
+hidden faces	hide-and-seek (painting)	4
+hidden faces	rubin vase	4
+hidden faces	utisz	4
+infrasound	bioacoustics	4
+infrasound	blaster beam	4
+infrasound	brown note	4
+infrasound	clear-air turbulence	4
+infrasound	contrabass tuba	4
+infrasound	feraliminal lycanthropizer	4
+infrasound	havana syndrome	4
+infrasound	helmholtz resonance	4
+infrasound	the hum	4
+infrasound	low-frequency oscillation	4
+infrasound	microbarom	4
+infrasound	sonic weapon	4
+infrasound	subcontrabass tuba	4
+infrasound	ultrasound	4
+gravity hill	the crooked house	4
+fraser spiral illusion	op-art	4
+fraser spiral illusion	mathematics and art	4
+emmert's law	visual perception	4
+emmert's law	optical illusion	4
+contour rivalry	optical illusion	4
+contour rivalry	rotational symmetry	4
+contour rivalry	three hares	4
+contour rivalry	triquetra	4
+contour rivalry	triskelion	4
+barberpole illusion	screw (simple machine)	4
+barberpole illusion	motion perception	4
+barberpole illusion	auditory illusion	4
+auditory illusion	auditory system	4
+auditory illusion	barber pole	4
+auditory illusion	diana deutsch	4
+auditory illusion	doppler effect	4
+auditory illusion	holophonics	4
+auditory illusion	jean-claude risset	4
+auditory illusion	musical acoustics	4
+auditory illusion	phantom rings	4
+auditory illusion	pitch circularity	4
+auditory illusion	psychoacoustics	4
+auditory illusion	sharawadji effect	4
+auditory illusion	tinnitus	4
+neuroscience	gut–brain axis	3
+neuroscience	connectomics	3
+neuropsychology	behavioral neurology	3
+neuropsychology	biological psychology	3
+neuropsychology	clinical neuropsychology	3
+neuropsychology	cognitive neuropsychiatry	3
+neuropsychology	cognitive neuropsychology	3
+neuropsychology	cognitive neuroscience	3
+neuropsychology	cognitive psychology	3
+neuropsychology	comparative neuropsychology	3
+neuropsychology	neurology	3
+neuropsychology	neuropsychoanalysis	3
+neuropsychology	neuropsychiatry	3
+neuropsychology	neuroscience	3
+neuropsychology	psychiatric genetics	3
+eye	accommodation (vertebrate eye)	3
+eye	adaptation (eye)	3
+eye	capsule of lens	3
+eye	emission theory (vision)	3
+eye	eye color	3
+eye	eye development	3
+eye	eye disease	3
+eye	eye injury	3
+eye	eye movement	3
+eye	lens (vertebrate anatomy)	3
+eye	nictitating membrane	3
+eye	ophthalmology	3
+eye	orbit (anatomy)	3
+eye	simple eye in invertebrates	3
+eye	tapetum lucidum	3
+eye	tears	3
+connectomics	dynamic functional connectivity	4
+connectomics	human connectome project	4
+connectomics	budapest reference connectome	4
+connectomics	drosophila connectome	4
+gut–brain axis	parkinson's disease and gut-brain axis	4
+linguistic relativity and the color naming debate	eskimo words for snow	3
+linguistic relativity and the color naming debate	blue–green distinction in language	3
+tears	artificial tears	4
+tears	dacryocystocele	4
+tears	epiphora (medicine)	4
+tears	eye	4
+tears	eyelid	4
+tears	professional mourning	4
+tears	sadness	4
+tears	harderian gland	4
+simple eye in invertebrates	arthropod eye	4
+simple eye in invertebrates	evolution of the eye	4
+simple eye in invertebrates	eyespot apparatus	4
+simple eye in invertebrates	mollusc eye	4
+simple eye in invertebrates	parietal eye	4
+simple eye in invertebrates	ocelloid	4
+tapetum lucidum	defense mechanism (biology)	4
+tapetum lucidum	emission theory (vision)	4
+tapetum lucidum	nocturnal bottleneck	4
+tapetum lucidum	walleye	4
+blue–green distinction in language	azure (color)	4
+blue–green distinction in language	basic color terms: their universality and evolution	4
+blue–green distinction in language	blue	4
+blue–green distinction in language	green	4
+blue–green distinction in language	teal	4
+blue–green distinction in language	blue-green	4
+blue–green distinction in language	color term	4
+blue–green distinction in language	color of water	4
+blue–green distinction in language	cyan	4
+blue–green distinction in language	linguistic relativity and the color naming debate	4
+blue–green distinction in language	qingniao	4
+blue–green distinction in language	semantic field	4
+blue–green distinction in language	spring green	4
+blue–green distinction in language	traditional colors of japan	4
+blue–green distinction in language	variations of blue	4
+blue–green distinction in language	variations of green	4
+nictitating membrane	accessory abducens nucleus	4
+nictitating membrane	human vestigiality	4
+lens (vertebrate anatomy)	accommodation reflex	4
+lens (vertebrate anatomy)	crystallin	4
+lens (vertebrate anatomy)	evolution of the eye	4
+lens (vertebrate anatomy)	intraocular lens	4
+lens (vertebrate anatomy)	iris (anatomy)	4
+lens (vertebrate anatomy)	lens capsule	4
+lens (vertebrate anatomy)	phacoemulsification	4
+lens (vertebrate anatomy)	visual perception	4
+lens (vertebrate anatomy)	zonules of zinn	4
+eye movement	accommodation (eye)	4
+eye movement	convergence micropsia	4
+eye movement	dissociated vertical deviation	4
+eye movement	eye tracking	4
+eye movement	gaze-contingency paradigm	4
+eye movement	listing's law	4
+eye movement	microsaccade	4
+eye movement	ocular tremor	4
+eye movement	orthoptist	4
+eye movement	oculesics	4
+eye movement	strabismus	4
+eye movement	progressive supranuclear palsy	4
+eye movement	computer processing of body language	4
+eye injury	black eye	4
+eye injury	chemical eye injury	4
+eye injury	united states eye injury registry	4
+eye injury	wilderness medical emergencies	4
+eye disease	endophthalmitis	4
+eye disease	corneal dystrophies in human	4
+eye disease	corrective lens	4
+eye disease	fungal contamination of contact lenses	4
+eye disease	lists of diseases	4
+eye disease	eye surgery	4
+eye disease	ophthalmology	4
+eye color	hair color	4
+eye color	human skin color	4
+eye color	iridology	4
+eye color	xanthophore	4
+capsule of lens	lens (vertebrate anatomy)	4
+adaptation (eye)	adaptive system	4
+adaptation (eye)	dark adaptor goggles	4
+adaptation (eye)	human eye	4
+adaptation (eye)	mesopic vision	4
+adaptation (eye)	neural adaptation	4
+adaptation (eye)	purkinje effect	4
+adaptation (eye)	disc shedding	4
+psychiatric genetics	behavioural genetics	4
+psychiatric genetics	neurogenetics	4
+psychiatric genetics	international behavioural and neural genetics society	4
+psychiatric genetics	gene-environment correlation	4
+psychiatric genetics	genetic predisposition	4
+psychiatric genetics	psychiatric genetics (journal)	4
+psychiatric genetics	genes, brain and behavior	4
+accommodation (vertebrate eye)	esotropia	4
+accommodation (vertebrate eye)	hyperopia	4
+accommodation (vertebrate eye)	myopia	4
+accommodation (vertebrate eye)	pseudomyopia	4
+accommodation (vertebrate eye)	accommodation in fish	4
+accommodation (vertebrate eye)	adaptation (eye)	4
+accommodation (vertebrate eye)	amplitude of accommodation	4
+accommodation (vertebrate eye)	cycloplegia	4
+accommodation (vertebrate eye)	cyclospasm	4
+accommodation (vertebrate eye)	edinger-westphal nucleus	4
+accommodation (vertebrate eye)	mandelbaum effect	4
+accommodation (vertebrate eye)	negative relative accommodation	4
+accommodation (vertebrate eye)	positive relative accommodation	4
+neurology	wp:seealso	4
+neurology	american board of psychiatry and neurology	4
+neurology	american osteopathic board of neurology and psychiatry	4
+neurology	developmental neurorehabilitation	4
+neurology	neuroepigenetics	4
+neurology	neurohospitalist	4
+neuropsychoanalysis	clinical neuroscience	4
+neuropsychiatry	cognitive neuropsychiatry	4
+neuropsychiatry	neurology	4
+neuropsychiatry	neurogenetics	4
+neuropsychiatry	neuropsychology	4
+neuropsychiatry	psychiatry	4
+neuropsychiatry	psychiatric genetics	4
+neuropsychiatry	psychoneuroimmunology	4
+cognitive neuroscience	binding problem	4
+cognitive neuroscience	cognitive biology	4
+cognitive neuroscience	cognitive psychology	4
+cognitive neuroscience	embodied cognition	4
+cognitive neuroscience	experimental psychology	4
+cognitive neuroscience	physiological psychology	4
+cognitive neuroscience	affective neuroscience	4
+cognitive neuroscience	social neuroscience	4
+cognitive neuroscience	social cognitive neuroscience	4
+cognitive neuroscience	cultural neuroscience	4
+cognitive neuroscience	neurochemistry	4
+cognitive neuroscience	neuroethology	4
+cognitive neuroscience	neuroendocrinology	4
+cognitive neuroscience	neuroscience	4
+comparative neuropsychology	comparative psychology	4
+comparative neuropsychology	experimental psychology	4
+comparative neuropsychology	neuropathology	4
+comparative neuropsychology	neuroscience	4
+comparative neuropsychology	psychology	4
+cognitive neuropsychology	capgras delusion	4
+cognitive neuropsychology	cdr computerized assessment system	4
+cognitive neuropsychology	clive wearing	4
+cognitive neuropsychology	cognitive bias	4
+cognitive neuropsychology	cognitive neuropsychiatry	4
+cognitive neuropsychology	cotard delusion	4
+cognitive neuropsychology	emotion and memory	4
+cognitive neuropsychology	erotomania	4
+cognitive neuropsychology	face perception	4
+cognitive neuropsychology	fregoli delusion	4
+cognitive neuropsychology	hm (patient)	4
+cognitive neuropsychology	neuropsychological test	4
+cognitive neuropsychology	phineas gage	4
+cognitive neuropsychology	primary sensory cortex	4
+cognitive neuropsychology	prosopagnosia	4
+cognitive neuropsychology	retinotopy	4
+clinical neuropsychology	abnormal psychology	4
+clinical neuropsychology	neurolaw	4
+clinical neuropsychology	neuropsychological test	4
+clinical neuropsychology	neuropsychological assessment	4
+clinical neuropsychology	neuropsychology	4
+cognitive neuropsychiatry	capgras delusion	4
+cognitive neuropsychiatry	cdr computerized assessment system	4
+cognitive neuropsychiatry	cognitive neuropsychology	4
+cognitive neuropsychiatry	fregoli delusion	4
+cognitive neuropsychiatry	neuropsychiatry	4
+biological psychology	affective neuroscience	4
+biological psychology	behavioral genetics	4
+biological psychology	biological psychiatry	4
+biological psychology	biology	4
+biological psychology	biosemiotics	4
+biological psychology	cognitive neuroscience	4
+biological psychology	developmental psychobiology	4
+biological psychology	epigenetics in psychology	4
+biological psychology	evolutionary psychology	4
+biological psychology	models of abnormality	4
+biological psychology	neurobiology	4
+biological psychology	neuroethology	4
+biological psychology	physical anthropology	4
+biological psychology	psychoneuroimmunology	4
+biological psychology	psychopharmacology	4
+biological psychology	psychophysics	4
+biological psychology	social neuroscience	4
+biological psychology	neuroscience	4
+orthoptics	bates method	4
+orthoptics	diplopia	4
+orthoptics	dissociated vertical deviation	4
+orthoptics	esotropia	4
+orthoptics	exotropia	4
+orthoptics	eye care professional	4
+orthoptics	eyepatch	4
+orthoptics	haploscope	4
+orthoptics	pediatric ophthalmology	4
+orthoptics	pinhole glasses	4
+orthoptics	vision therapy	4
+orthoptics	vision rehabilitation	4
+eyewiki	health information on wikipedia	4
+eyewiki	health information on the internet	4
+copiale cipher	voynich manuscript	4
+the dress	checker shadow illusion	4
+the dress	yanny or laurel	4
+machine vision glossary	glossary of artificial intelligence	4
+machine vision glossary	frame grabber	4
+machine vision glossary	google goggles	4
+machine vision glossary	morphological image processing	4
+machine vision glossary	opencv	4
+machine vision glossary	smart camera	4
+behavioral neurology	behavioral neuroscience	4
+egocentric vision	eye tracking	4
+egocentric vision	lifelog	4
+egocentric vision	quantified self	4
+egocentric vision	smartglasses	4
+egocentric vision	sousveillance	4
+computer audition	3d sound localization	4
+computer audition	audio signal processing	4
+computer audition	medical intelligence and language engineering lab	4
+computer audition	music and artificial intelligence	4
+computer audition	sound recognition	4
+computational photography	adaptive optics	4
+computational photography	multispectral imaging	4
+computational photography	simultaneous localization and mapping	4
+computational photography	super-resolution microscopy	4
+computational photography	time-of-flight camera	4
+chessboard detection	computer vision	4
+chessboard detection	projective geometry	4
+chessboard detection	pinhole camera	4
+chessboard detection	photogrammetry	4
+chessboard detection	camera resectioning	4
+chessboard detection	feature detection (computer vision)	4
+chessboard detection	feature extraction	4
+chessboard detection	canny edge detector	4
+chessboard detection	corner detection	4
+chessboard detection	structure tensor	4
+chessboard detection	hough transform	4
+topographical disorientation	getting lost	3
+topographical disorientation	grid cell	3
+topographical disorientation	head direction cells	3
+topographical disorientation	navigation	3
+topographical disorientation	path integration	3
+topographical disorientation	place cell	3
+temporal lobe epilepsy	geschwind syndrome	4
+recognition of human individuals	access control	4
+recognition of human individuals	automated fingerprint identification	4
+recognition of human individuals	assuresign	4
+recognition of human individuals	bioapi	4
+recognition of human individuals	biometrics in schools	4
+recognition of human individuals	european association for biometrics	4
+recognition of human individuals	fingerprint recognition	4
+recognition of human individuals	fuzzy extractor	4
+recognition of human individuals	gait analysis	4
+recognition of human individuals	government database	4
+recognition of human individuals	handwritten biometric recognition	4
+recognition of human individuals	identity cards act 2006	4
+recognition of human individuals	international identity federation	4
+recognition of human individuals	keystroke dynamics	4
+recognition of human individuals	multiple biometric grand challenge	4
+recognition of human individuals	private biometrics	4
+recognition of human individuals	retinal scan	4
+recognition of human individuals	signature recognition	4
+recognition of human individuals	smart city	4
+recognition of human individuals	speaker recognition	4
+recognition of human individuals	vein matching	4
+recognition of human individuals	voice analysis	4
+prosopamnesia	prosopagnosia	4
+n170	bereitschaftspotential	4
+n170	c1 and p1 (neuroscience)	4
+n170	contingent negative variation	4
+n170	difference due to memory	4
+n170	early left anterior negativity	4
+n170	error-related negativity	4
+n170	late positive component	4
+n170	lateralized readiness potential	4
+n170	mismatch negativity	4
+n170	n2pc	4
+n170	n100 (neuroscience)	4
+n170	n200 (neuroscience)	4
+n170	n400 (neuroscience)	4
+n170	p3a	4
+n170	p3b	4
+n170	p200	4
+n170	p300 (neuroscience)	4
+n170	p600 (neuroscience)	4
+n170	somatosensory evoked potential	4
+n170	visual n1	4
+fregoli delusion	schizophrenia	4
+fregoli delusion	cotard delusion	4
+fregoli delusion	capgras delusion	4
+fregoli delusion	impostor	4
+fregoli delusion	erotomania	4
+fregoli delusion	psychosis	4
+fregoli delusion	prosopagnosia	4
+fregoli delusion	agnosia	4
+fregoli delusion	mirrored-self misidentification	4
+face perception	apophenia	4
+face perception	autism	4
+face perception	capgras delusion	4
+face perception	cognitive neuropsychology	4
+face perception	cross-race effect	4
+face perception	delusional misidentification syndrome	4
+face perception	emotion perception	4
+face perception	facial expression	4
+face perception	facial recognition system	4
+face perception	fregoli delusion	4
+face perception	gestalt psychology	4
+face perception	hollow-face illusion	4
+face perception	nonverbal learning disorder	4
+face perception	pareidolia	4
+face perception	prosopagnosia	4
+face perception	social cognition	4
+face perception	social intelligence	4
+face perception	super recogniser	4
+covert facial recognition	capgras delusion	4
+covert facial recognition	face perception	4
+covert facial recognition	cognitive psychology	4
+color constancy	chromatic adaptation	3
+color constancy	memory color effect	3
+color constancy	shadow and highlight enhancement	3
+color constancy	trichromacy	3
+color constancy	tetrachromacy	3
+color constancy	theory of colours	3
+theory of colours	checker shadow illusion	4
+theory of colours	color theory	4
+theory of colours	entoptic phenomenon	4
+theory of colours	opponent process	4
+theory of colours	romanticism in science	4
+theory of colours	theory of painting	4
+tetrachromacy	color vision	4
+tetrachromacy	monochromacy	4
+tetrachromacy	dichromacy	4
+tetrachromacy	trichromacy	4
+tetrachromacy	evolution of color vision	4
+tetrachromacy	infrared vision	4
+tetrachromacy	rg color space	4
+tetrachromacy	rgby	4
+tetrachromacy	somatosensory amplification	4
+tetrachromacy	supertaster	4
+brain	brain–computer interface	3
+brain	central nervous system disease	3
+brain	neurological disorder	3
+brain	optogenetics	3
+brain	aging brain	3
+trichromacy	visual system	4
+trichromacy	monochromacy	4
+trichromacy	dichromacy	4
+trichromacy	tetrachromacy	4
+trichromacy	pentachromacy	4
+trichromacy	mantis shrimp	4
+trichromacy	evolution of color vision in primates	4
+trichromacy	young–helmholtz theory	4
+trichromacy	lms color space	4
+shadow and highlight enhancement	hdr photostudio	4
+shadow and highlight enhancement	tone mapping	4
+aphantasia	charcot–wilbrand syndrome	4
+amygdala	accessory olfactory cortical areas	4
+amygdala	amygdala hijack	4
+amygdala	belbic	4
+amygdala	intercalated cells of the amygdala	4
+amygdala	triune brain	4
+amygdala	amygdalotomy	4
+amygdala	amygdalohippocampectomy	4
+amygdala	s.m. (patient)	4
+alexithymia	antisocial personality disorder	4
+alexithymia	amplification (psychology)	4
+alexithymia	body-centred countertransference	4
+alexithymia	borderline personality disorder	4
+alexithymia	disaffectation	4
+alexithymia	emotion classification	4
+alexithymia	emotional dysregulation	4
+alexithymia	psychological mindedness	4
+alexithymia	prosopagnosia	4
+alexithymia	reduced affect display	4
+alexithymia	somatization disorder	4
+alexithymia	somatosensory amplification	4
+neurological disorder	central nervous system	4
+neurological disorder	european brain council	4
+neurological disorder	human brain	4
+neurological disorder	mental disorder	4
+neurological disorder	neuroplasticity	4
+neurological disorder	peripheral nervous system	4
+neurological disorder	proctalgia fugax	4
+neurological disorder	hypokalemic sensory overstimulation	4
+aging brain	aging movement control	4
+aging brain	hallmarks of aging	4
+aging brain	life extension	4
+aging brain	lifelong learning	4
+aging brain	timeline of senescence research	4
+aging brain	neuropsychological test	4
+aging brain	reliability theory of aging and longevity	4
+aging brain	sensory stimulation therapy	4
+aging brain	neuroscience of aging	4
+central nervous system disease	neurodegenerative disease	4
+brain–computer interface	informatics	4
+brain–computer interface	intendix	4
+brain–computer interface	alterego	4
+brain–computer interface	augmented learning	4
+brain–computer interface	biological machine	4
+brain–computer interface	cortical implants	4
+brain–computer interface	deep brain stimulation	4
+brain–computer interface	human senses	4
+brain–computer interface	experience machine	4
+brain–computer interface	kernel (neurotechnology company)	4
+brain–computer interface	lie detection	4
+brain–computer interface	microwave auditory effect	4
+brain–computer interface	neural engineering	4
+brain–computer interface	neuralink	4
+brain–computer interface	neurorobotics	4
+brain–computer interface	neurostimulation	4
+brain–computer interface	nootropic	4
+brain–computer interface	precision neuroscience	4
+brain–computer interface	project cyborg	4
+brain–computer interface	simulated reality	4
+brain–computer interface	stent-electrode recording array	4
+brain–computer interface	telepresence	4
+brain–computer interface	thought identification	4
+brain–computer interface	wetware computer	4
+brain–computer interface	whole brain emulation	4
+brain–computer interface	wirehead (science fiction)	4
+place cell	spatial view cells	4
+place cell	grid cell	4
+place cell	head direction cells	4
+path integration	cognitive map	4
+path integration	motion perception	4
+gestaltzerfall	reactive inhibition	3
+gestaltzerfall	semantic satiation	3
+navigation	robot navigation	4
+navigation	tvmdc	4
+navigation	collision avoidance in transportation	4
+navigation	spatial cognition	4
+head direction cells	spatial view cells	4
+color agnosia	achromatopsia	3
+color agnosia	cortical blindness	3
+color agnosia	color blindness	3
+color agnosia	ishihara color test	3
+grid cell	boundary cell	4
+blindness	accessibility	3
+blindness	accessible books consortium	3
+blindness	acoustic wayfinding	3
+blindness	acute visual loss	3
+blindness	blindness and education	3
+blindness	bookshare	3
+blindness	braille technology	3
+blindness	braille trail	3
+blindness	color blindness	3
+blindness	diplopia	3
+blindness	disability rights movement	3
+blindness	nyctalopia	3
+blindness	recovery from blindness	3
+blindness	retinal regeneration	3
+blindness	sensory tourism	3
+blindness	sighted guide	3
+blindness	stereoblindness	3
+blindness	swedish interactive thresholding algorithm	3
+blindness	tactile alphabet	3
+blindness	tactile graphic	3
+blindness	tangible symbol systems	3
+blindness	vision disorder	3
+blindness	visual agnosia	3
+blindness	visual impairment due to intracranial pressure	3
+blindness	world blind union	3
+semantic satiation	buffalo buffalo buffalo buffalo buffalo buffalo buffalo buffalo	4
+semantic satiation	gestaltzerfall	4
+semantic satiation	jamais vu	4
+semantic satiation	mantra	4
+semantic satiation	olfactory fatigue	4
+semantic satiation	scat singing	4
+reactive inhibition	semantic satiation	4
+reactive inhibition	gestaltzerfall	4
+world blind union	world braille day	4
+visual impairment due to intracranial pressure	effect of spaceflight on the human body	4
+visual impairment due to intracranial pressure	papilledema	4
+vision disorder	blindness	4
+vision disorder	recovery from blindness	4
+vision disorder	amblyopia	4
+vision disorder	nystagmus	4
+vision disorder	strabism	4
+vision disorder	stereoblindness	4
+vision disorder	stereopsis recovery	4
+vision disorder	visual impairment	4
+vision disorder	visual field	4
+tactile alphabet	tactile graphic	4
+tactile alphabet	tangible symbol systems	4
+sighted guide	guide dog	4
+sighted guide	white cane	4
+stereoblindness	amblyopia	4
+stereoblindness	stereopsis	4
+stereoblindness	stereopsis recovery	4
+stereoblindness	strabismus	4
+stereoblindness	susan r. barry	4
+diplopia	binocular vision	4
+diplopia	monocular rivalry	4
+diplopia	orthoptics	4
+disability rights movement	autonomy	4
+disability rights movement	big apple pothole and sidewalk protection committee	4
+disability rights movement	community alliance for the ethical treatment of youth	4
+disability rights movement	curb cut effect	4
+disability rights movement	declaration on the rights of disabled persons	4
+disability rights movement	disability flag	4
+disability rights movement	fat acceptance movement	4
+disability rights movement	inclusion (disability rights)	4
+disability rights movement	medical model of disability	4
+disability rights movement	nothing about us without us	4
+disability rights movement	person centred planning	4
+disability rights movement	psychiatric survivors movement	4
+disability rights movement	reasonable accommodation	4
+disability rights movement	social model of disability	4
+disability rights movement	transgenerational design	4
+disability rights movement	universal design	4
+disability rights movement	visitability	4
+disability rights movement	access now v. southwest airlines	4
+disability rights movement	mills vs. board of education of district of columbia	4
+braille technology	assistive technology	4
+blindness and education	braille music	4
+blindness and education	nico (tv series)	4
+blindness and education	thérèse-adèle husson	4
+blindness and education	t. v. raman	4
+blindness and education	zina weygand	4
+acoustic wayfinding	wayfinding	4
+acoustic wayfinding	acoustic location	4
+acoustic wayfinding	human echolocation	4
+cognitive science	affective science	3
+cognitive science	cognitive anthropology	3
+cognitive science	cognitive biology	3
+cognitive science	cognitive computing	3
+cognitive science	cognitive ethology	3
+cognitive science	cognitive linguistics	3
+cognitive science	cognitive neuropsychology	3
+cognitive science	cognitive neuroscience	3
+cognitive science	cognitive psychology	3
+cognitive science	cognitive science of religion	3
+cognitive science	computational neuroscience	3
+cognitive science	computational-representational understanding of mind	3
+cognitive science	concept mining	3
+cognitive science	decision field theory	3
+cognitive science	decision theory	3
+cognitive science	dynamicism	3
+cognitive science	educational neuroscience	3
+cognitive science	educational psychology	3
+cognitive science	embodied cognition	3
+cognitive science	embodied cognitive science	3
+cognitive science	enactivism	3
+cognitive science	epistemology	3
+cognitive science	folk psychology	3
+cognitive science	heterophenomenology	3
+cognitive science	human cognome project	3
+cognitive science	human–computer interaction	3
+cognitive science	indiana archives of cognitive science	3
+cognitive science	informatics (academic field)	3
+cognitive science	malleable intelligence	3
+cognitive science	neural darwinism	3
+cognitive science	personal information management	3
+cognitive science	qualia	3
+cognitive science	quantum cognition	3
+cognitive science	simulated consciousness	3
+cognitive science	situated cognition	3
+cognitive science	society of mind theory	3
+cognitive science	spatial cognition	3
+cognitive science	speech–language pathology	3
+social cognition	behavioral sink	4
+social cognition	cognitive dissonance	4
+social cognition	distributed cognition	4
+social cognition	empathy	4
+social cognition	joint attention	4
+social cognition	language	4
+social cognition	neurodevelopmental framework for learning	4
+social cognition	observational learning	4
+social cognition	online participation	4
+social cognition	paranoid social cognition	4
+social cognition	relational mobility	4
+social cognition	embodied cognition	4
+social cognition	shared intentionality	4
+social cognition	situated cognition	4
+social cognition	social cognitive theory	4
+social cognition	social cognitive theory of morality	4
+social cognition	social emotion	4
+social cognition	social intelligence	4
+social cognition	social neuroscience	4
+situated cognition	action-specific perception	4
+situated cognition	activity theory	4
+situated cognition	cognitive biology	4
+situated cognition	cognitive psychology	4
+situated cognition	computer-supported collaborative learning	4
+situated cognition	cultural-historical activity theory	4
+situated cognition	distributed cognition	4
+situated cognition	cognitive model	4
+situated cognition	embodied cognition	4
+situated cognition	extended cognition	4
+situated cognition	enactivism	4
+situated cognition	group cognition	4
+situated cognition	pragmatism	4
+situated cognition	situational awareness	4
+rubicon model (psychology)	cognitive psychology	4
+rubicon model (psychology)	executive functions	4
+rubicon model (psychology)	delayed gratification	4
+rubicon model (psychology)	motivation	4
+rubicon model (psychology)	self-control	4
+rubicon model (psychology)	self-efficacy	4
+rubicon model (psychology)	self-regulated learning	4
+rubicon model (psychology)	self-regulation theory	4
+psychological adaptation	adaptive behavior (ecology)	4
+psychological adaptation	adaptive bias	4
+psychological adaptation	adjustment (psychology)	4
+psychological adaptation	cognitive module	4
+psychological adaptation	dual inheritance theory	4
+psychological adaptation	evolutionary developmental psychology	4
+psychological adaptation	evolutionary psychology	4
+psychological adaptation	human behavioral ecology	4
+psychological adaptation	instinct	4
+psychological adaptation	modularity of mind	4
+personal information management	comparison of note-taking software	4
+personal information management	desktop wiki	4
+personal information management	personal data manager	4
+personal information management	personal organizer	4
+personal information management	personal wiki	4
+personal information management	personal information manager	4
+personal information management	semantic desktop	4
+neurocognitive	cognition	4
+neurocognitive	cognitive neuropsychology	4
+neurocognitive	cognitive neuroscience	4
+neurocognitive	cognitive rehabilitation therapy	4
+neurocognitive	neurology	4
+neurocognitive	neuropsychology	4
+neurocognitive	neuropsychological test	4
+neurocognitive	neurotoxic	4
+neurocognitive	brain fog	4
+neurocognitive	hallucinogen persisting perception disorder	4
+neurocognitive	depersonalization	4
+neurocognitive	dementia	4
+neurocognitive	mild cognitive impairment	4
+neurocognitive	attention deficit hyperactivity disorder	4
+neurocognitive	concussions in sport	4
+intertrial priming	priming (psychology)	4
+intertrial priming	thin-slicing	4
+artificial intelligence	organoid intelligence	4
+artificial intelligence	wetware computer	4
+genetic epistemology	constructivist epistemology	4
+genetic epistemology	cognitive psychology	4
+genetic epistemology	educational psychology	4
+genetic epistemology	evolutionary epistemology	4
+genetic epistemology	general semantics	4
+genetic epistemology	genetic structuralism	4
+genetic epistemology	learning styles	4
+genetic epistemology	learning theory (education)	4
+genetic epistemology	ontogeny recapitulates phylogeny	4
+genetic epistemology	theory of cognitive development	4
+fuzzy-trace theory	behavioral economics	4
+fuzzy-trace theory	cognitive development	4
+fuzzy-trace theory	decision-making	4
+fuzzy-trace theory	developmental psychology	4
+fuzzy-trace theory	framing (social sciences)	4
+fuzzy-trace theory	reason	4
+fuzzy-trace theory	risk	4
+evolutionary psychology	affective neuroscience	4
+evolutionary psychology	behavioural genetics	4
+evolutionary psychology	biocultural evolution	4
+evolutionary psychology	biosocial criminology	4
+evolutionary psychology	collective unconscious	4
+evolutionary psychology	cognitive neuroscience	4
+evolutionary psychology	cultural neuroscience	4
+evolutionary psychology	darwinian happiness	4
+evolutionary psychology	darwinian literary studies	4
+evolutionary psychology	deep social mind	4
+evolutionary psychology	dunbar's number	4
+evolutionary psychology	evolution of the brain	4
+evolutionary psychology	evolutionary origin of religions	4
+evolutionary psychology	evolutionary psychology and culture	4
+evolutionary psychology	molecular evolution	4
+evolutionary psychology	primate cognition	4
+evolutionary psychology	hominid intelligence	4
+evolutionary psychology	human ethology	4
+evolutionary psychology	great ape language	4
+evolutionary psychology	common chimpanzee	4
+evolutionary psychology	cooperative eye hypothesis	4
+evolutionary psychology	id, ego, and superego	4
+evolutionary psychology	intersubjectivity	4
+evolutionary psychology	mirror neuron	4
+evolutionary psychology	origin of language	4
+evolutionary psychology	origin of speech	4
+evolutionary psychology	ovulatory shift hypothesis	4
+evolutionary psychology	primate empathy	4
+evolutionary psychology	shadow (psychology)	4
+evolutionary psychology	simulation theory of empathy	4
+evolutionary psychology	theory of mind	4
+evolutionary psychology	neuroethology	4
+evolutionary psychology	paleolithic diet	4
+evolutionary psychology	paleolithic lifestyle	4
+evolutionary psychology	r/k selection theory	4
+evolutionary psychology	social neuroscience	4
+evolutionary psychology	sociobiology	4
+evolutionary psychology	universal darwinism	4
+ecological psychology	action-specific perception	4
+ecological psychology	ambient optic array	4
+ecological psychology	community psychology	4
+ecological psychology	conservation psychology	4
+ecological psychology	embodied cognition	4
+ecological psychology	environmental design research association	4
+ecological psychology	evolutionary psychology	4
+ecological psychology	information ecology	4
+ecological psychology	situated cognition	4
+ecological psychology	urie bronfenbrenner	4
+discursive psychology	critical discourse analysis	4
+discursive psychology	discursive complex	4
+discursive psychology	mediated stylistics	4
+discursive psychology	ordinary language philosophy	4
+discursive psychology	postcognitivism	4
+discursive psychology	stylistics (field of study)	4
+connectionism	associationism	4
+connectionism	artificial intelligence	4
+connectionism	behaviorism	4
+connectionism	catastrophic interference	4
+connectionism	calculus of relations	4
+connectionism	cybernetics	4
+connectionism	deep learning	4
+connectionism	eliminative materialism	4
+connectionism	feature integration theory	4
+connectionism	genetic algorithm	4
+connectionism	harmonic grammar	4
+connectionism	machine learning	4
+connectionism	pandemonium architecture	4
+connectionism	self-organizing map	4
+cognitive robotics	artificial intelligence	4
+cognitive robotics	intelligent agent	4
+cognitive robotics	cognitive architecture	4
+cognitive robotics	cognitive science	4
+cognitive robotics	cybernetics	4
+cognitive robotics	developmental robotics	4
+cognitive robotics	embodied cognitive science	4
+cognitive robotics	evolutionary robotics	4
+cognitive robotics	hybrid intelligent system	4
+cognitive robotics	icub	4
+cognitive robotics	intelligent control	4
+accessibility	accessible toilet	4
+accessibility	accessible tourism	4
+accessibility	cen/cenelec guide 6	4
+accessibility	computer accessibility	4
+accessibility	convenience	4
+accessibility	curb cut effect	4
+accessibility	design for all (in ict)	4
+accessibility	disability flag	4
+accessibility	game accessibility	4
+accessibility	human factors and ergonomics	4
+accessibility	inclusive design	4
+accessibility	knowbility	4
+accessibility	national federation of the blind v. target corporation	4
+accessibility	principles of intelligent urbanism	4
+accessibility	public transport accessibility level	4
+accessibility	section 504 of the rehabilitation act	4
+accessibility	section 508 amendment to the rehabilitation act of 1973	4
+accessibility	timeline of disability rights in the united states	4
+accessibility	timeline of disability rights outside the united states	4
+accessibility	transgenerational design	4
+accessibility	transport divide	4
+accessibility	universal design for instruction	4
+accessibility	walkability	4
+accessibility	walking audit	4
+accessibility	walter harris callow	4
+accessibility	wheelchair accessible van	4
+cognitive poetics	cognitive philology	4
+cognitive poetics	cognitive rhetoric	4
+cognitive poetics	critical theory	4
+cognitive poetics	literary theory	4
+cognitive poetics	evolutionary psychology	4
+cognitive poetics	neuropsychology	4
+cognitive module	cognition	4
+cognitive module	cognitive ethology	4
+cognitive module	functionalism (philosophy of mind)	4
+cognitive module	language module	4
+cognitive module	visual modularity	4
+cognitive interventions	brain training	4
+cognitive description	cognitive module	4
+cognitive description	cognition	4
+cognitive description	cognitive disorder	4
+cognitive biology	biosemiotics	4
+cognitive biology	cognitive anthropology	4
+cognitive biology	cognitive science of religion	4
+cognitive biology	cognitive neuropsychology	4
+cognitive biology	cognitive neuroscience	4
+cognitive biology	cognitive psychology	4
+cognitive biology	cognitive science	4
+cognitive biology	embodied cognitive science	4
+cognitive biology	embodied cognition	4
+cognitive biology	evolutionary epistemology	4
+cognitive biology	naturalized epistemology	4
+cognitive biology	neuroepistemology	4
+cognitive biology	spatial cognition	4
+cognition	cognitive abilities screening instrument	4
+cognition	cognitive biology	4
+cognition	cognitive computing	4
+cognition	cognitive holding power	4
+cognition	cognitive liberty	4
+cognition	cognitive musicology	4
+cognition	cognitive psychology	4
+cognition	cognitive science	4
+cognition	cognitivism (psychology)	4
+cognition	comparative cognition	4
+cognition	embodied cognition	4
+cognition	cognitive shuffle	4
+cognition	information processing technology and aging	4
+cognition	mental chronometry	4
+cognition	nootropic	4
+cognition	shared intentionality	4
+speech–language pathology	all india institute of speech and hearing	4
+speech–language pathology	applied linguistics	4
+speech–language pathology	communicative disorders assistant	4
+speech–language pathology	motor theory of speech perception	4
+speech–language pathology	neurolinguistics	4
+speech–language pathology	online speech therapy	4
+speech–language pathology	oral myology	4
+speech–language pathology	origin of speech	4
+speech–language pathology	speech acquisition	4
+speech–language pathology	speech buddies	4
+speech–language pathology	speech perception	4
+speech–language pathology	speech processing	4
+speech–language pathology	speech repetition	4
+society of mind theory	cognitive psychology	4
+society of mind theory	cognitive science	4
+society of mind theory	consciousness explained	4
+society of mind theory	distributed cognition	4
+society of mind theory	divided consciousness	4
+society of mind theory	dual (cognitive architecture)	4
+society of mind theory	dual consciousness	4
+society of mind theory	lateralization of brain function	4
+society of mind theory	left-brain interpreter	4
+society of mind theory	parallel computing	4
+society of mind theory	philosophy of mind	4
+society of mind theory	self-awareness	4
+society of mind theory	situated cognition	4
+society of mind theory	the emotion machine	4
+society of mind theory	theory of mind	4
+simulated consciousness	artificial general intelligence	4
+simulated consciousness	intelligence explosion	4
+simulated consciousness	computational philosophy	4
+simulated consciousness	william grey walter	4
+simulated consciousness	turtle (robot)	4
+simulated consciousness	conceptual space	4
+simulated consciousness	greedy reductionism	4
+simulated consciousness	image schema	4
+simulated consciousness	artificial intelligence	4
+simulated consciousness	brain–computer interface	4
+simulated consciousness	cognitive architecture	4
+simulated consciousness	computational theory of mind	4
+simulated consciousness	consciousness in animals	4
+simulated consciousness	simulated consciousness (science fiction)	4
+simulated consciousness	hardware for artificial intelligence	4
+simulated consciousness	identity of indiscernibles	4
+simulated consciousness	mind uploading	4
+simulated consciousness	neurotechnology	4
+simulated consciousness	philosophy of mind	4
+simulated consciousness	quantum cognition	4
+simulated consciousness	simulated reality	4
+simulated consciousness	attention schema theory	4
+simulated consciousness	ads-ac	4
+simulated consciousness	copycat (software)	4
+simulated consciousness	global workspace theory	4
+simulated consciousness	hallucination (artificial intelligence)	4
+simulated consciousness	kismet (robot)	4
+simulated consciousness	lida (cognitive architecture)	4
+simulated consciousness	memory-prediction framework	4
+simulated consciousness	omniscience	4
+simulated consciousness	psi-theory	4
+simulated consciousness	quantum mind	4
+simulated consciousness	self-awareness	4
+qualia	epiphenomenalism	4
+qualia	indeterminacy (philosophy)	4
+qualia	veil of perception	4
+neural darwinism	mechanism (philosophy)	4
+neural darwinism	complex adaptive system	4
+neural darwinism	darwinism	4
+neural darwinism	evolutionary psychology	4
+neural darwinism	genetic programming	4
+neural darwinism	long-term potentiation	4
+neural darwinism	meme	4
+neural darwinism	modern synthesis	4
+neural darwinism	neurodevelopment	4
+neural darwinism	psychological nativism	4
+neural darwinism	society of mind theory	4
+neural darwinism	the neurosciences institute	4
+neural darwinism	universal darwinism	4
+informatics (academic field)	artificial intelligence	4
+informatics (academic field)	behavior informatics	4
+informatics (academic field)	computational theory of mind	4
+informatics (academic field)	computer simulation	4
+informatics (academic field)	data processing	4
+informatics (academic field)	data engineering	4
+informatics (academic field)	data analysis	4
+informatics (academic field)	entscheidungsproblem	4
+informatics (academic field)	information and computer science	4
+informatics (academic field)	information engineering	4
+informatics (academic field)	information science	4
+informatics (academic field)	information system	4
+informatics (academic field)	information technology	4
+informatics (academic field)	information theory	4
+informatics (academic field)	machine learning	4
+informatics (academic field)	models of neural computation	4
+informatics (academic field)	neural computation	4
+informatics (academic field)	real-time computing	4
+human–computer interaction	captcha	4
+human–computer interaction	digital live art	4
+human–computer interaction	feminist hci	4
+human–computer interaction	hci bibliography	4
+human–computer interaction	information architecture	4
+human–computer interaction	information design	4
+human–computer interaction	mindfulness and technology	4
+human–computer interaction	turing test	4
+human–computer interaction	user experience design	4
+human–computer interaction	human city interaction	4
+human cognome project	binding problem	4
+human cognome project	cognitive biology	4
+human cognome project	cognitive psychology	4
+human cognome project	embodied cognition	4
+human cognome project	experimental psychology	4
+human cognome project	physiological psychology	4
+human cognome project	affective neuroscience	4
+human cognome project	social neuroscience	4
+human cognome project	social cognitive neuroscience	4
+human cognome project	cultural neuroscience	4
+human cognome project	neurochemistry	4
+human cognome project	neuroethology	4
+human cognome project	neuroendocrinology	4
+human cognome project	neuroscience	4
+heterophenomenology	alterity	4
+heterophenomenology	cartesian theater	4
+heterophenomenology	consciousness	4
+heterophenomenology	genetic psychology (brentano)	4
+heterophenomenology	metaphysics of presence	4
+heterophenomenology	neurology	4
+heterophenomenology	noumenon	4
+heterophenomenology	phenomena	4
+heterophenomenology	phenomenology (philosophy)	4
+heterophenomenology	phenomenology (psychology)	4
+heterophenomenology	qualia	4
+heterophenomenology	theory-ladenness	4
+epistemology	logology (science)	4
+enactivism	action-specific perception	4
+enactivism	autopoesis	4
+enactivism	biosemiotics	4
+enactivism	cognitive science	4
+enactivism	cognitive psychology	4
+enactivism	computational theory of mind	4
+enactivism	connectivism	4
+enactivism	cultural psychology	4
+enactivism	distributed cognition	4
+enactivism	embodied cognition	4
+enactivism	embodied embedded cognition	4
+enactivism	enactive interfaces	4
+enactivism	extended cognition	4
+enactivism	extended mind	4
+enactivism	externalism	4
+enactivism	mind–body problem	4
+enactivism	phenomenology (philosophy)	4
+enactivism	practopoiesis	4
+enactivism	representationalism	4
+enactivism	situated cognition	4
+enactivism	social cognition	4
+embodied cognitive science	autopoiesis	4
+embodied cognitive science	behavior-based robotics	4
+embodied cognitive science	cognitive science	4
+embodied cognitive science	cognitive neuroscience	4
+embodied cognitive science	cortical homunculus	4
+embodied cognitive science	embodied embedded cognition	4
+embodied cognitive science	embodied philosophy	4
+embodied cognitive science	motor cognition	4
+embodied cognitive science	common coding theory	4
+embodied cognitive science	linguistics	4
+embodied cognitive science	neurophenomenology	4
+embodied cognitive science	situated cognition	4
+embodied cognitive science	artificial general intelligence	4
+educational neuroscience	ten percent of brain myth	4
+educational neuroscience	sense	4
+educational neuroscience	cognitive advantages of bilingualism	4
+educational neuroscience	cognitive style	4
+decision theory	bayesian epistemology	4
+decision theory	bayesian statistics	4
+decision theory	causal decision theory	4
+decision theory	choice modelling	4
+decision theory	constraint satisfaction	4
+decision theory	daniel kahneman	4
+decision theory	decision making	4
+decision theory	decision quality	4
+decision theory	emotional choice theory	4
+decision theory	evidential decision theory	4
+decision theory	functional decision theory	4
+decision theory	game theory	4
+decision theory	multi-criteria decision making	4
+decision theory	newcomb's paradox	4
+decision theory	operations research	4
+decision theory	optimal decision	4
+decision theory	preference (economics)	4
+decision theory	prospect theory	4
+decision theory	quantum cognition	4
+decision theory	rational choice theory	4
+decision theory	rationality	4
+decision theory	secretary problem	4
+decision theory	signal detection theory	4
+decision theory	small-numbers game	4
+decision theory	stochastic dominance	4
+decision theory	totrep	4
+decision theory	two envelopes problem	4
+concept mining	formal concept analysis	4
+concept mining	information extraction	4
+concept mining	compound term processing	4
+computational neuroscience	action potential	4
+computational neuroscience	biological neuron models	4
+computational neuroscience	bayesian approaches to brain function	4
+computational neuroscience	brain simulation	4
+computational neuroscience	computational anatomy	4
+computational neuroscience	connectomics	4
+computational neuroscience	differentiable programming	4
+computational neuroscience	electrophysiology	4
+computational neuroscience	fitzhugh–nagumo model	4
+computational neuroscience	goldman equation	4
+computational neuroscience	hodgkin–huxley model	4
+computational neuroscience	information theory	4
+computational neuroscience	mathematical model	4
+computational neuroscience	nonlinear dynamics	4
+computational neuroscience	neural coding	4
+computational neuroscience	neural decoding	4
+computational neuroscience	neural oscillation	4
+computational neuroscience	neuroinformatics	4
+computational neuroscience	neuromimetic intelligence	4
+computational neuroscience	neuroplasticity	4
+computational neuroscience	neurophysiology	4
+computational neuroscience	systems neuroscience	4
+computational neuroscience	mathematical and theoretical biology	4
+computational neuroscience	theta model	4
+cognitive science of religion	wp:seealso	4
+cognitive science of religion	iacsr	4
+cognitive linguistics	embodied cognition	4
+cognitive linguistics	psycholinguistics	4
+cognitive linguistics	theory of language	4
+cognitive linguistics	usage-based models of language	4
+cognitive ethology	animal consciousness	4
+cognitive ethology	anthropomorphism	4
+cognitive ethology	psychological behaviorism	4
+cognitive ethology	cognitive module	4
+cognitive ethology	feral child	4
+cognitive ethology	neuroanthropology	4
+cognitive computing	automation	4
+cognitive computing	affective computing	4
+cognitive computing	analytics	4
+cognitive computing	artificial intelligence	4
+cognitive computing	artificial neural network	4
+cognitive computing	brain computer interface	4
+cognitive computing	cognitive computer	4
+cognitive computing	cognitive reasoning	4
+cognitive computing	cognitive science	4
+cognitive computing	enterprise cognitive system	4
+cognitive computing	semantic web	4
+cognitive computing	social neuroscience	4
+cognitive computing	synthetic intelligence	4
+cognitive computing	usability	4
+cognitive computing	neuromorphic engineering	4
+cognitive computing	ai accelerator	4
+cognitive anthropology	componential analysis	4
+cognitive anthropology	a. kimball romney	4
+cognitive anthropology	maurice bloch	4
+affective science	emotion	4
+affective science	music therapy	4
+affective science	psychology	4
+affective science	affective neuroscience	4
+affective science	affective computing	4
+affective science	affect (psychology)	4
+stereopsis recovery	recovery from blindness	4
+hand-eye coordination	kinematics	4
+hand-eye coordination	motor skill	4
+hand-eye coordination	neuroplasticity	4
+hand-eye coordination	sense	4
+hand-eye coordination	compensatory tracking task	4
+hand-eye coordination	cheiroscope	4
+blindsight	koniocellular cell	4
+blindsight	riddoch syndrome	4
+blindsight	two-streams hypothesis	4
+blindsight	visual agnosia	4
+amblyopia	functional visual loss	4
+semmelweis reflex	belief perseverance	4
+semmelweis reflex	cognitive dissonance	4
+semmelweis reflex	confirmation bias	4
+semmelweis reflex	conservatism (belief revision)	4
+semmelweis reflex	galileo gambit	4
+semmelweis reflex	luddite	4
+semmelweis reflex	not invented here	4
+semmelweis reflex	paradigm shift	4
+aphasia	agnosia	4
+aphasia	aphasiology	4
+aphasia	apraxia of speech	4
+aphasia	aprosodia	4
+aphasia	auditory processing disorder	4
+aphasia	lethologica	4
+aphasia	lists of language disorders	4
+aphasia	my beautiful broken brain	4
+aphasia	origin of speech	4
+color anomia	conduction aphasia	4
+color anomia	expressive aphasia	4
+color anomia	lists of language disorders	4
+color anomia	primary progressive aphasia	4
+color anomia	receptive aphasia	4
+color anomia	tip of the tongue	4
+predictive coding	error-driven learning	4
+predictive coding	blue brain project	4
+predictive coding	cognitive biology	4
+predictive coding	cognitive linguistics	4
+predictive coding	cognitive neuropsychology	4
+predictive coding	cognitive neuroscience	4
+predictive coding	cognitive science	4
+predictive coding	conceptual blending	4
+predictive coding	conceptual metaphor	4
+predictive coding	cortical column	4
+predictive coding	embodied bilingual language	4
+predictive coding	embodied cognitive science	4
+predictive coding	embodied embedded cognition	4
+predictive coding	embodied music cognition	4
+predictive coding	enactivism	4
+predictive coding	extended cognition	4
+predictive coding	extended mind thesis	4
+predictive coding	externalism	4
+predictive coding	heuristic	4
+predictive coding	image schema	4
+predictive coding	moravec's paradox	4
+predictive coding	neuroconstructivism	4
+predictive coding	neuropsychology	4
+predictive coding	neurophenomenology	4
+predictive coding	philosophy of mind	4
+predictive coding	plant cognition	4
+predictive coding	practopoiesis	4
+predictive coding	situated cognition	4
+predictive coding	where mathematics comes from	4
+visual illusion	auditory illusion	3
+visual illusion	barberpole illusion	3
+visual illusion	camouflage	3
+visual illusion	chronostasis	3
+visual illusion	closed-eye hallucination	3
+visual illusion	contour rivalry	3
+visual illusion	ebbinghaus illusion	3
+visual illusion	emmert's law	3
+visual illusion	flashed face distortion effect	3
+visual illusion	fraser spiral illusion	3
+visual illusion	gravity hill	3
+visual illusion	infrasound	3
+visual illusion	hidden faces	3
+visual illusion	infinity edge pool	3
+visual illusion	kinetic depth effect	3
+visual illusion	mirage	3
+visual illusion	multistable perception	3
+visual illusion	rabbit–duck illusion	3
+visual illusion	silencing	3
+visual illusion	the dress (viral phenomenon)	3
+visual illusion	troxler's fading	3
+visual illusion	visual space	3
+visual illusion	watercolour illusion	3
+spatial frequency	fourier analysis	3
+spatial frequency	superlens	3
+spatial frequency	visual perception	3
+spatial frequency	fringe visibility	3
+spatial frequency	reciprocal space	3
+interpretation (philosophy)	philosophical theory	3
+philosophical theory	glossary of philosophy	4
+philosophical theory	metaphilosophy	4
+fringe visibility	degree of coherence	4
+fringe visibility	interferometry	4
+fringe visibility	optical interferometry	4
+fringe visibility	hong–ou–mandel effect	4
+superlens	acoustic metamaterials	4
+superlens	history of metamaterials	4
+superlens	metamaterial absorber	4
+superlens	metamaterial antennas	4
+superlens	metamaterial cloaking	4
+superlens	negative index metamaterials	4
+superlens	nonlinear metamaterials	4
+superlens	photonic crystal	4
+superlens	photonic metamaterials	4
+superlens	plasmonic metamaterials	4
+superlens	seismic metamaterials	4
+superlens	split-ring resonator	4
+superlens	terahertz metamaterials	4
+superlens	theories of cloaking	4
+superlens	transformation optics	4
+superlens	tunable metamaterials	4
+superlens	plasmonic lens	4
+superlens	metamaterials (journal)	4
+superlens	metamaterials handbook	4
+superlens	metamaterials: physics and engineering explorations	4
+superlens	nader engheta	4
+superlens	ulf leonhardt	4
+superlens	john pendry	4
+superlens	vladimir shalaev	4
+superlens	david r. smith (physicist)	4
+superlens	sergei tretyakov (scientist)	4
+superlens	richard w. ziolkowski	4
+fourier analysis	conjugate fourier series	4
+fourier analysis	generalized fourier series	4
+fourier analysis	fourier–bessel series	4
+fourier analysis	fourier-related transforms	4
+fourier analysis	laplace transform	4
+fourier analysis	two-sided laplace transform	4
+fourier analysis	mellin transform	4
+fourier analysis	non-uniform discrete fourier transform	4
+fourier analysis	quantum fourier transform	4
+fourier analysis	number-theoretic transform	4
+fourier analysis	basis vector	4
+fourier analysis	bispectrum	4
+fourier analysis	characteristic function (probability theory)	4
+fourier analysis	orthogonal functions	4
+fourier analysis	schwartz space	4
+fourier analysis	spectral density	4
+fourier analysis	spectral density estimation	4
+fourier analysis	spectral music	4
+fourier analysis	walsh function	4
+fourier analysis	wavelet	4
+multisensory integration	body transfer illusion	3
+multisensory integration	sensory processing disorder	3
+multisensory integration	synesthesia	3
+synesthesia	allochiria	4
+synesthesia	apophenia	4
+synesthesia	asmr	4
+synesthesia	fantasy prone personality	4
+synesthesia	hallucination	4
+synesthesia	ideasthesia	4
+synesthesia	ideophone	4
+synesthesia	vibration theory of olfaction	4
+synesthesia	parosmia	4
+synesthesia	psychedelic drug	4
+synesthesia	sensory substitution	4
+synesthesia	thought-forms (book)	4
+synesthesia	visual music	4
+synesthesia	the yellow sound	4
+synesthesia	mccollough effect	4
+synesthesia	richard cytowic	4
+sensory processing disorder	wp:seealso	4
+sensory processing disorder	auditory processing disorder	4
+sensory processing disorder	catatonia	4
+sensory processing disorder	hyperacusis	4
+sensory processing disorder	hyperesthesia	4
+sensory processing disorder	misophonia	4
+sensory processing disorder	music therapy	4
+sensory processing disorder	neurologic music therapy	4
+sensory processing disorder	occupational science	4
+sensory processing disorder	sensory friendly	4
+sensory processing disorder	sensory integration therapy	4
+sensory processing disorder	sensory overload	4
+sensory processing disorder	sensory processing sensitivity	4
+sensory processing disorder	snoezelen	4
+sensory processing disorder	somatosensory disorder	4
+body transfer illusion	body schema	4
+motion perception	barber's pole	3
+motion perception	biological motion	3
+motion perception	cognitive map	3
+motion perception	eye movement (sensory)	3
+motion perception	ganzfeld effect	3
+motion perception	illusory motion	3
+motion perception	induced movement	3
+motion perception	jerkiness	3
+motion perception	lilac chaser	3
+motion perception	max wertheimer	3
+motion perception	motion aftereffect	3
+motion perception	motion (physics)	3
+motion perception	optical flow	3
+motion perception	peripheral drift illusion	3
+motion perception	persistence of vision	3
+motion perception	pulfrich effect	3
+motion perception	strobe light	3
+motion perception	stroboscopic effect	3
+motion perception	visual modularity	3
+motion perception	visual perception	3
+motion perception	wagon-wheel effect	3
+machine vision	machine vision glossary	3
+machine vision	feature detection (computer vision)	3
+machine vision	foreground detection	3
+machine vision	vision processing unit	3
+machine vision	optical sorting	3
+optical sorting	food grading	4
+optical sorting	food safety	4
+optical sorting	food technology	4
+vision processing unit	adapteva epiphany	4
+vision processing unit	cell	4
+vision processing unit	coprocessor	4
+vision processing unit	graphics processing unit	4
+vision processing unit	mpsoc	4
+vision processing unit	opencl	4
+vision processing unit	openvx	4
+vision processing unit	physics processing unit	4
+vision processing unit	tensor processing unit	4
+foreground detection	3d data acquisition and object reconstruction	4
+foreground detection	gaussian adaptation	4
+foreground detection	region of interest	4
+foreground detection	teknomo–fernandez algorithm	4
+foreground detection	vibe	4
+feature detection (computer vision)	computer vision	4
+feature detection (computer vision)	automatic image annotation	4
+feature detection (computer vision)	feature learning	4
+feature detection (computer vision)	feature selection	4
+feature detection (computer vision)	foreground detection	4
+feature detection (computer vision)	vectorization (image tracing)	4
+wagon-wheel effect	aliasing	4
+wagon-wheel effect	stroboscopic effect	4
+wagon-wheel effect	rolling shutter	4
+stroboscopic effect	3d zoetrope	4
+stroboscopic effect	temporal light artefacts	4
+stroboscopic effect	temporal light effects	4
+stroboscopic effect	flicker (light)	4
+stroboscopic effect	flicker fusion threshold	4
+strobe light	electrotachyscope	4
+strobe light	emergency vehicle lighting	4
+strobe light	flicker (light)	4
+strobe light	flicker fusion threshold	4
+strobe light	tachometer	4
+strobe light	axle	4
+strobe light	zoetrope	4
+strobe light	jerkiness	4
+strobe light	flash (photography)	4
+strobe light	wagon-wheel effect	4
+strobe light	optical illusion	4
+strobe light	spoke	4
+strobe light	wheel	4
+strobe light	air-gap flash	4
+strobe light	high-speed photography	4
+persistence of vision	afterimage	4
+persistence of vision	beta movement	4
+persistence of vision	chronostasis	4
+persistence of vision	flicker (light)	4
+persistence of vision	flicker fusion threshold	4
+persistence of vision	light writing	4
+persistence of vision	animation	4
+persistence of vision	motion perception	4
+persistence of vision	phi phenomenon	4
+persistence of vision	the persistence of vision (short story)	4
+persistence of vision	persistence of vision (film)	4
+optical flow	ambient optic array	4
+optical flow	optical mouse	4
+optical flow	range imaging	4
+optical flow	vision processing unit	4
+optical flow	continuity equation	4
+optical flow	motion field	4
+motion (physics)	deflection (physics)	4
+motion (physics)	flow (physics)	4
+motion (physics)	kinematics	4
+motion (physics)	simple machines	4
+motion (physics)	kinematic chain	4
+motion (physics)	power (physics)	4
+motion (physics)	machine (mechanical)	4
+motion (physics)	microswimmer	4
+motion (physics)	motion (geometry)	4
+motion (physics)	motion capture	4
+motion (physics)	displacement (vector)	4
+motion (physics)	translatory motion	4
+motion aftereffect	afterimage	4
+motion aftereffect	motion perception	4
+max wertheimer	berlin school of experimental psychology	4
+lilac chaser	checker shadow illusion	4
+jerkiness	persistence of vision	4
+induced movement	autokinetic effect	4
+induced movement	motion aftereffect	4
+induced movement	motion induced blindness	4
+induced movement	motion perception	4
+illusory motion	akiyoshi kitaoka	4
+illusory motion	illusions of self-motion	4
+eye movement (sensory)	accommodation (eye)	4
+eye movement (sensory)	convergence micropsia	4
+eye movement (sensory)	dissociated vertical deviation	4
+eye movement (sensory)	eye tracking	4
+eye movement (sensory)	gaze-contingency paradigm	4
+eye movement (sensory)	listing's law	4
+eye movement (sensory)	microsaccade	4
+eye movement (sensory)	ocular tremor	4
+eye movement (sensory)	orthoptist	4
+eye movement (sensory)	oculesics	4
+eye movement (sensory)	strabismus	4
+eye movement (sensory)	progressive supranuclear palsy	4
+eye movement (sensory)	computer processing of body language	4
+biological motion	biological motion perception	4
+biological motion	motion perception	4
+biological motion	theory of mind	4
+biological motion	mirror neuron	4
+biological motion	motor cognition	4
+biological motion	uncanny valley	4
+biological motion	cognitive neuroscience	4
+biological motion	embodied cognitive science	4
+biological motion	embodied cognition	4
+biological motion	empathy	4
+biological motion	social neuroscience	4
+biological motion	affective neuroscience	4
+biological motion	temporoparietal junction	4
+biological motion	premotor cortex	4
+biological motion	common coding theory	4
+biological motion	language processing in the brain	4
+biological motion	motion capture	4
+barber's pole	glossary of nautical terms	4
+barber's pole	signage	4
+naked eye	macrograph	3
+naked eye	satellite flare	3
+naked eye	iss flare	3
+iss flare	a beautiful planet	4
+iss flare	center for the advancement of science in space	4
+iss flare	politics of outer space	4
+iss flare	science diplomacy	4
+iss flare	space station 3d	4
+iss flare	tiangong space station	4
+satellite flare	nanosail-d	4
+satellite flare	humanity star	4
+looming	motion camouflage	3
+looming	optic flow	3
+gestalt psychology	augusto garau	3
+gestalt psychology	amodal perception	3
+gestalt psychology	cognitive grammar	3
+gestalt psychology	egregore	3
+gestalt psychology	gestaltzerfall	3
+gestalt psychology	graz school	3
+gestalt psychology	hans wallach	3
+gestalt psychology	hermann friedmann	3
+gestalt psychology	james j. gibson	3
+gestalt psychology	james tenney	3
+gestalt psychology	laws of association	3
+gestalt psychology	mereology	3
+gestalt psychology	optical illusion	3
+gestalt psychology	pál schiller harkai	3
+gestalt psychology	pattern recognition	3
+gestalt psychology	pattern recognition (psychology)	3
+gestalt psychology	phenomenology (psychology)	3
+gestalt psychology	principles of grouping	3
+gestalt psychology	rudolf arnheim	3
+gestalt psychology	solomon asch	3
+gestalt psychology	structural information theory	3
+gestalt psychology	topological data analysis	3
+gestalt psychology	wolfgang metzger	3
+gestalt psychology	vera felicidade de almeida campos	3
+entoptic phenomenon	theory of colours	3
+topological data analysis	dimensionality reduction	4
+topological data analysis	data mining	4
+topological data analysis	computer vision	4
+topological data analysis	computational topology	4
+topological data analysis	discrete morse theory	4
+topological data analysis	shape analysis (digital geometry)	4
+topological data analysis	size theory	4
+topological data analysis	algebraic topology	4
+structural information theory	principles of grouping	4
+structural information theory	theory of indispensable attributes	4
+structural information theory	simplicity theory	4
+solomon asch	belief perseverance	4
+solomon asch	milgram experiment	4
+solomon asch	stanley milgram	4
+rudolf arnheim	spatial visualization ability	4
+principles of grouping	global precedence	4
+principles of grouping	pattern recognition	4
+principles of grouping	perception	4
+principles of grouping	structural information theory	4
+principles of grouping	theory of indispensable attributes	4
+phenomenology (psychology)	alterity	4
+phenomenology (psychology)	association of ideas	4
+phenomenology (psychology)	associationism	4
+phenomenology (psychology)	binding problem	4
+phenomenology (psychology)	ideology	4
+phenomenology (psychology)	neurophenomenology	4
+phenomenology (psychology)	prejudice	4
+phenomenology (psychology)	stream of consciousness (psychology)	4
+phenomenology (psychology)	vertiginous question	4
+pattern recognition (psychology)	apophenia	4
+pattern recognition (psychology)	gambler's fallacy	4
+pattern recognition (psychology)	gestalt psychology	4
+pattern recognition (psychology)	pareidolia	4
+pattern recognition (psychology)	synchronicity	4
+pattern recognition (psychology)	thin-slicing	4
+pattern recognition	adaptive resonance theory	4
+pattern recognition	black box	4
+pattern recognition	cache language model	4
+pattern recognition	compound-term processing	4
+pattern recognition	computer-aided diagnosis	4
+pattern recognition	data mining	4
+pattern recognition	deep learning	4
+pattern recognition	information theory	4
+pattern recognition	neocognitron	4
+pattern recognition	perception	4
+pattern recognition	perceptual learning	4
+pattern recognition	predictive analytics	4
+pattern recognition	prior knowledge for pattern recognition	4
+pattern recognition	sequence mining	4
+pattern recognition	template matching	4
+pattern recognition	contextual image classification	4
+mereology	glossary of mereology	4
+mereology	gunk (mereology)	4
+mereology	holism	4
+mereology	holon (philosophy)	4
+mereology	implicate and explicate order	4
+mereology	laws of form	4
+mereology	g. spencer-brown	4
+mereology	mereological essentialism	4
+mereology	mereological nihilism	4
+mereology	mereotopology	4
+mereology	meronomy	4
+mereology	meronymy	4
+mereology	monad (philosophy)	4
+mereology	plural quantification	4
+mereology	quantifier variance	4
+mereology	simple (philosophy)	4
+mereology	whitehead's point-free geometry	4
+mereology	composition (objects)	4
+mereology	emergence	4
+hermann friedmann	international pen	4
+graz school	berlin school of experimental psychology	4
+graz school	carl stumpf	4
+graz school	school of brentano	4
+cognitive grammar	gestalt psychology	4
+cognitive grammar	ronald langacker	4
+cognitive grammar	cognitive linguistics	4
+cognitive grammar	george lakoff	4
+amodal perception	developmental psychology	4
+amodal perception	illusory contours	4
+amodal perception	:simple:intermodal perception	4
+amodal perception	psychology	4
+optic flow	ambient optic array	4
+optic flow	optical mouse	4
+optic flow	range imaging	4
+optic flow	vision processing unit	4
+optic flow	continuity equation	4
+optic flow	motion field	4
+depth perception	arboreal theory	3
+depth perception	cyclopean stimuli	3
+depth perception	optical illusion	3
+depth perception	orthoptics	3
+depth perception	peripheral vision	3
+depth perception	senses	3
+depth perception	vision therapy	3
+depth perception	visual cliff	3
+visual cliff	developmental psychology	4
+visual cliff	psychology	4
+visual cliff	cognitive psychology	4
+vision therapy	bates method	4
+vision therapy	irlen syndrome	4
+vision therapy	journal of behavioral optometry	4
+vision therapy	reichian therapy	4
+vision therapy	visual snow	4
+senses	aesthesis	4
+senses	apperception	4
+senses	attention	4
+senses	chemesthesis	4
+senses	extrasensory perception	4
+senses	entoptic phenomenon	4
+senses	hyperacusis	4
+senses	hyperesthesia	4
+senses	supertaster	4
+senses	illusion	4
+senses	auditory illusion	4
+senses	optical illusion	4
+senses	touch illusion	4
+senses	multisensory integration	4
+senses	phantom limb	4
+senses	sensation and perception psychology	4
+senses	sense of direction	4
+senses	sensitivity (human)	4
+senses	sensorium	4
+senses	sensory processing disorder	4
+senses	synesthesia	4
+senses	ideasthesia	4
+peripheral vision	averted vision	4
+peripheral vision	bitemporal hemianopsia	4
+peripheral vision	depth perception	4
+peripheral vision	eye movement (sensory)	4
+peripheral vision	eye movement in music reading	4
+peripheral vision	fovea centralis	4
+peripheral vision	perimetry	4
+peripheral vision	visual field	4
+peripheral vision	visual perception	4
+peripheral vision	tunnel vision	4
+peripheral vision	binocular vision	4
+peripheral vision	macular degeneration	4
+peripheral vision	glaucoma	4
+modularity	configuration design	4
+modularity	object-oriented programming	4
+modularity	pattern language	4
+society of mind	cognitive psychology	4
+society of mind	cognitive science	4
+society of mind	consciousness explained	4
+society of mind	distributed cognition	4
+society of mind	divided consciousness	4
+society of mind	dual (cognitive architecture)	4
+society of mind	dual consciousness	4
+society of mind	lateralization of brain function	4
+society of mind	left-brain interpreter	4
+society of mind	parallel computing	4
+society of mind	philosophy of mind	4
+society of mind	self-awareness	4
+society of mind	situated cognition	4
+society of mind	the emotion machine	4
+society of mind	theory of mind	4
+heautoscopy	syndrome of subjective doubles	4
+two streams hypothesis	language processing in the brain	4
+two streams hypothesis	vision for perception and vision for action	4
+two streams hypothesis	visual memory	4
+two streams hypothesis	visual cortex	4
+two streams hypothesis	visual system	4
+two streams hypothesis	magnocellular cell	4
+two streams hypothesis	tectopulvinar pathway	4
+two streams hypothesis	auditory system	4
+two streams hypothesis	object recognition (cognitive science)	4
+two streams hypothesis	medial superior temporal area	4
+two streams hypothesis	arcuate fasciculus	4
+two streams hypothesis	occipital lobe	4
+two streams hypothesis	lateral pulvinar nucleus	4
+two streams hypothesis	pulvinar nuclei	4
+two streams hypothesis	phantom contour	4
+two streams hypothesis	parasol cell	4
+two streams hypothesis	constructional apraxia	4
+two streams hypothesis	lateral geniculate nucleus	4
+two streams hypothesis	blindsight	4
+two streams hypothesis	koniocellular cell	4
+predictive learning	reinforcement learning	4
+predictive learning	predictive coding	4
+sparse distributed memory	autoassociative memory	4
+sparse distributed memory	cerebellar model articulation controller	4
+sparse distributed memory	types of artificial neural networks	4
+sparse distributed memory	holographic associative memory	4
+sparse distributed memory	low-density parity-check code	4
+sparse distributed memory	memory-prediction framework	4
+sparse distributed memory	neural coding	4
+sparse distributed memory	neural turing machine	4
+sparse distributed memory	random indexing	4
+sparse distributed memory	self-organizing map	4
+sparse distributed memory	semantic folding	4
+sparse distributed memory	semantic memory	4
+sparse distributed memory	semantic network	4
+sparse distributed memory	autoencoder	4
+sparse distributed memory	visual indexing theory	4
+stephen grossberg	grossberg network	4
+color temperature	brightness temperature	4
+color temperature	color balance	4
+color temperature	effective temperature	4
+color temperature	kruithof curve	4
+color temperature	luminous efficacy	4
+color temperature	metamerism (color)	4
+color temperature	colored fire	4
+color temperature	overillumination	4
+color temperature	whiteness (colorimetry)	4
+bezold–brücke shift	opponent process	4
+bezold–brücke shift	purkinje effect	4
+bezold–brücke shift	abney effect	4
+gamma correction	brightness	4
+gamma correction	bt.1886	4
+gamma correction	callier effect	4
+gamma correction	color balance	4
+gamma correction	color cast	4
+gamma correction	color management	4
+gamma correction	color grading	4
+gamma correction	color temperature	4
+gamma correction	contrast (vision)	4
+gamma correction	luminance	4
+gamma correction	luminance (video)	4
+gamma correction	luminance (relative)	4
+gamma correction	post-production	4
+gamma correction	standard-dynamic-range video	4
+gamma correction	telecine	4
+gamma correction	tone mapping	4
+gamma correction	transfer functions in imaging	4
+gamma correction	video calibration software	4
+gamma correction	white point	4
+color cast	colour balance	4
+color cast	colour temperature	4
+tamil language	tamil keyboard	4
+tamil language	tamil population by cities	4
+tamil language	tamil population by nation	4
+tamil language	tamil loanwords in other languages	4
+tamil language	tamil shorthand	4
+tamil language	geolinguistics	4
+tamil language	language geography	4
+acoustic location	acoustic camera	4
+acoustic location	3d sound reconstruction	4
+acoustic location	3d sound localization	4
+acoustic location	sound localization	4
+acoustic location	boomerang (mobile shooter detection system)	4
+acoustic location	multilateration	4
+acoustic location	acoustic mirror	4
+acoustic location	acoustic wayfinding	4
+acoustic location	animal echolocation	4
+acoustic location	echo sounding	4
+acoustic location	gunfire locator	4
+acoustic location	human echolocation	4
+acoustic location	human bycatch	4
+acoustic location	medical ultrasonography	4
+acoustic location	sensory substitution	4
+sensory substitution	biological neural network	4
+sensory substitution	brain implant	4
+sensory substitution	human echolocation	4
+near-sightedness	myopia in animals	4
+near-sightedness	myopic crescent	4
+near-sightedness	instrument myopia	4
+visual looming syndrome	motion camouflage	4
+visual looming syndrome	optic flow	4
+photophobia	photic sneeze reflex	4
+photophobia	photosensitivity in humans	4
+light-on-dark color scheme	amoled	4
+light-on-dark color scheme	blackle	4
+light-on-dark color scheme	night shift (software)	4
+light-on-dark color scheme	oled	4
+light-on-dark color scheme	solarized	4
+eye examination	optometry	4
+eye examination	binocular vision	4
+eye examination	driver's license	4
+eye examination	eyeglass prescription	4
+eye examination	orthoptics	4
+eye examination	retinoscopy	4
+eye examination	stereopsis	4
+eye examination	subjective refraction	4
+eye examination	vergence	4
+computer vision syndrome	asthenopia	4
+computer vision syndrome	effects of blue light technology	4
+computer vision syndrome	electronic media and sleep	4
+computer vision syndrome	ocular neurosis	4
+computer vision syndrome	photophobia	4
+computer vision syndrome	repetitive strain injury	4
+computer vision syndrome	presbyopia	4
+computer vision syndrome	visual looming syndrome	4
+computer vision syndrome	visual snow	4
+astigmatism	near-sightedness	4
+astigmatism	far-sightedness	4
+smartglasses	head-mounted display	3
+smartglasses	wearable technology	3
+smartglasses	quantified self	3
+smartglasses	bionic contact lens	3
+quantified self	personal science	3
+quantified self	self-experimentation	3
+quantified self	seth roberts	3
+quantified self	ehealth	3
+quantified self	fitness app	3
+quantified self	human enhancement	3
+quantified self	transhumanism	3
+quantified self	experience sampling method	3
+lifelog	cathal gurrin	3
+lifelog	diary	3
+lifelog	digital footprint	3
+lifelog	dymaxion chronofile	3
+lifelog	egocentric vision	3
+lifelog	gordon bell	3
+lifelog	lifecasting (video stream)	3
+lifelog	lifestreaming	3
+lifelog	microsoft sensecam	3
+lifelog	mylifebits	3
+lifelog	narrative clip	3
+lifelog	personal knowledge base	3
+lifelog	quantified self	3
+lifelog	smartglasses	3
+lifelog	sousveillance	3
+lifelog	wearable computer	3
+sousveillance	body camera	3
+sousveillance	eyetap	3
+sousveillance	helmet camera	3
+sousveillance	lifelogging	3
+sousveillance	memoto	3
+sousveillance	quantified self	3
+sousveillance	quis custodiet ipsos custodes?	3
+sousveillance	surveillance capitalism	3
+eye tracking	eye tracking on the iss	3
+eye tracking	foveated imaging	3
+eye tracking	mouse-tracking	3
+eye tracking	screen reading	3
+bionic contact lens	augmented reality	4
+bionic contact lens	google contact lens	4
+bionic contact lens	heads-up display	4
+bionic contact lens	optical head-mounted display	4
+bionic contact lens	smartglasses	4
+bionic contact lens	visual prosthesis	4
+experience sampling method	ambulatory assessment	4
+experience sampling method	diary studies	4
+experience sampling method	event sampling methodology	4
+experience sampling method	quantified self	4
+quis custodiet ipsos custodes?	sousveillance	4
+screen reading	computer literacy	4
+foveated imaging	fovea centralis	4
+foveated imaging	gaze-contingency paradigm	4
+foveated imaging	human visual system model	4
+foveated imaging	low vision	4
+foveated imaging	image compression	4
+foveated imaging	digital image processing	4
+foveated imaging	eye tracker	4
+foveated imaging	eye movement in language reading	4
+mouse-tracking	click tracking	4
+mouse-tracking	eye tracking	4
+mouse-tracking	macro recorder	4
+mouse-tracking	keystroke logging	4
+mouse-tracking	usability testing	4
+mouse-tracking	recorded future	4
+memoto	wearable computing	4
+memoto	eyetap	4
+memoto	gordon bell	4
+memoto	steve mann (inventor)	4
+memoto	sensecam	4
+lifelogging	cathal gurrin	4
+lifelogging	diary	4
+lifelogging	digital footprint	4
+lifelogging	dymaxion chronofile	4
+lifelogging	egocentric vision	4
+lifelogging	gordon bell	4
+lifelogging	lifecasting (video stream)	4
+lifelogging	lifestreaming	4
+lifelogging	microsoft sensecam	4
+lifelogging	mylifebits	4
+lifelogging	narrative clip	4
+lifelogging	personal knowledge base	4
+lifelogging	quantified self	4
+lifelogging	smartglasses	4
+lifelogging	sousveillance	4
+lifelogging	wearable computer	4
+eye tracking on the iss	attentiontracking	4
+eye tracking on the iss	international space station	4
+eye tracking on the iss	scientific research on the iss	4
+eye tracking on the iss	eye tracking	4
+eye tracking on the iss	nasa	4
+eye tracking on the iss	european space agency	4
+eye tracking on the iss	german aerospace center	4
+helmet camera	body camera	4
+helmet camera	police body camera	4
+helmet camera	sousveillance	4
+helmet camera	refcam	4
+eyetap	smartglasses	4
+eyetap	optical head-mounted display	4
+eyetap	google glass	4
+body camera	helmet camera	4
+body camera	refcam	4
+body camera	shooting of jamarion robinson	4
+body camera	sousveillance	4
+personal knowledge base	comparison of notetaking software	4
+wearable computer	activity tracker	4
+wearable computer	apple watch	4
+wearable computer	artificial neural membrane	4
+wearable computer	augmented reality	4
+wearable computer	radio-frequency identification	4
+wearable computer	calculator watch	4
+wearable computer	computer-mediated reality	4
+wearable computer	ehealth	4
+wearable computer	eyetap	4
+wearable computer	e-textiles	4
+wearable computer	extended reality	4
+wearable computer	frogpad	4
+wearable computer	retro-futurism	4
+wearable computer	glove one	4
+wearable computer	google glass	4
+wearable computer	golden-i	4
+wearable computer	gps watch	4
+wearable computer	head-mounted display	4
+wearable computer	head-up display	4
+wearable computer	heart rate monitor	4
+wearable computer	internet of things	4
+wearable computer	lifelog	4
+wearable computer	open-source computing hardware	4
+wearable computer	mobile phone	4
+wearable computer	mobile interaction	4
+wearable computer	optical head-mounted display	4
+wearable computer	oqo	4
+wearable computer	personal digital assistant	4
+wearable computer	pocket computer	4
+wearable computer	skully (helmet)	4
+wearable computer	smartphone	4
+wearable computer	smartglasses	4
+wearable computer	smartwatch	4
+wearable computer	real-time locating system	4
+wearable computer	tablet computer	4
+wearable computer	virtual retinal display	4
+wearable computer	wireless ambulatory ecg	4
+narrative clip	wearable computing	4
+narrative clip	eyetap	4
+narrative clip	gordon bell	4
+narrative clip	steve mann (inventor)	4
+narrative clip	sensecam	4
+mylifebits	dymaxion chronofile	4
+mylifebits	lifelog	4
+mylifebits	microsoft sensecam	4
+microsoft sensecam	gordon bell	4
+microsoft sensecam	cathal gurrin	4
+microsoft sensecam	the circle (eggers novel)	4
+lifestreaming	activity stream	4
+lifestreaming	augmented reality	4
+lifestreaming	dacast	4
+lifestreaming	blogtv	4
+lifestreaming	digital footprint	4
+lifestreaming	everyscape	4
+lifestreaming	federated identity	4
+lifestreaming	the final cut (2004 film)	4
+lifestreaming	fly on the wall	4
+lifestreaming	google glass	4
+lifestreaming	hasan m. elahi	4
+lifestreaming	if i can dream (web series)	4
+lifestreaming	the invention of morel	4
+lifestreaming	justin.tv	4
+lifestreaming	live streaming	4
+lifestreaming	snapchat	4
+lifestreaming	social network service	4
+lifestreaming	sophie calle	4
+lifestreaming	sousveillance	4
+lifestreaming	tinychat	4
+lifestreaming	tom green's house tonight	4
+lifestreaming	ustream	4
+lifecasting (video stream)	activity stream	4
+lifecasting (video stream)	augmented reality	4
+lifecasting (video stream)	dacast	4
+lifecasting (video stream)	blogtv	4
+lifecasting (video stream)	digital footprint	4
+lifecasting (video stream)	everyscape	4
+lifecasting (video stream)	federated identity	4
+lifecasting (video stream)	the final cut (2004 film)	4
+lifecasting (video stream)	fly on the wall	4
+lifecasting (video stream)	google glass	4
+lifecasting (video stream)	hasan m. elahi	4
+lifecasting (video stream)	if i can dream (web series)	4
+lifecasting (video stream)	the invention of morel	4
+lifecasting (video stream)	justin.tv	4
+lifecasting (video stream)	live streaming	4
+lifecasting (video stream)	snapchat	4
+lifecasting (video stream)	social network service	4
+lifecasting (video stream)	sophie calle	4
+lifecasting (video stream)	sousveillance	4
+lifecasting (video stream)	tinychat	4
+lifecasting (video stream)	tom green's house tonight	4
+lifecasting (video stream)	ustream	4
+gordon bell	mylifebits	4
+gordon bell	microsoft sensecam	4
+gordon bell	lifelog	4
+digital footprint	alternative data	4
+digital footprint	behavioral targeting	4
+digital footprint	browser isolation	4
+digital footprint	data exhaust	4
+digital footprint	digital identity	4
+digital footprint	internet anonymity	4
+digital footprint	internet privacy	4
+digital footprint	online advertising	4
+digital footprint	online identity	4
+digital footprint	reality mining	4
+digital footprint	reputation management	4
+digital footprint	sigint	4
+digital footprint	social engineering (security)	4
+digital footprint	social genome	4
+digital footprint	targeted marketing	4
+digital footprint	ukusa agreement	4
+digital footprint	universal product code	4
+digital footprint	web tracking	4
+digital footprint	website	4
+digital footprint	wire data	4
+diary	art diary	4
+diary	autobiography	4
+diary	automatic indexing	4
+diary	bullet journal	4
+diary	coloring diary	4
+diary	commentarii	4
+diary	commonplace book	4
+diary	diary studies	4
+diary	electronic organizer	4
+diary	fake memoir	4
+diary	hipster pda	4
+diary	logbook	4
+diary	nikki bungaku	4
+diary	poetic diary	4
+diary	personal knowledge base	4
+dymaxion chronofile	dymaxion car	4
+dymaxion chronofile	dymaxion house	4
+dymaxion chronofile	dymaxion map	4
+dymaxion chronofile	lifelog	4
+dymaxion chronofile	mylifebits	4
+transhumanism	android (robot)	4
+transhumanism	assisted reproductive technology	4
+transhumanism	brain-computer interface	4
+transhumanism	body hacking	4
+transhumanism	cyberware	4
+transhumanism	cyborg	4
+transhumanism	digital immortality	4
+transhumanism	do-it-yourself biology	4
+transhumanism	future of humanity institute	4
+transhumanism	hard science fiction	4
+transhumanism	institute for ethics and emerging technologies	4
+transhumanism	kardashev scale	4
+transhumanism	my body, my choice	4
+transhumanism	meliorism	4
+transhumanism	participant evolution	4
+transhumanism	posthuman	4
+transhumanism	posthumanism	4
+transhumanism	quantified self	4
+transhumanism	technocalyps	4
+transhumanism	technological dystopia	4
+transhumanism	technological utopianism	4
+transhumanism	transhuman	4
+transhumanism	transhuman space	4
+transhumanism	transhumanism in fiction	4
+transhumanism	life extension	4
+ehealth	personal science	4
+ehealth	human enhancement	4
+ehealth	quantified self	4
+ehealth	center for telehealth and e-health law	4
+ehealth	ehealthinsurance	4
+ehealth	eudranet	4
+ehealth	european institute for health records	4
+ehealth	health 2.0	4
+ehealth	telehealth	4
+ehealth	seth roberts	4
+seth roberts	n of 1 trial	4
+seth roberts	human enhancement	4
+human enhancement	anti-aging movement	4
+human enhancement	assisted reproductive technologies	4
+human enhancement	biohappiness	4
+human enhancement	body modification	4
+human enhancement	cloning	4
+human enhancement	directed evolution (transhumanism)	4
+human enhancement	evidence-based learning	4
+human enhancement	gene therapy	4
+human enhancement	genetic engineering	4
+human enhancement	grinder (biohacking)	4
+human enhancement	human-animal hybrid	4
+human enhancement	life extension	4
+human enhancement	moral enhancement	4
+human enhancement	posthuman	4
+human enhancement	posthumanization	4
+human enhancement	technological singularity	4
+human enhancement	transhumanism	4
+fitness app	exercise and music	4
+self-experimentation	psychonautics	4
+self-experimentation	participant observation	4
+self-experimentation	seth roberts	4
+self-experimentation	personal science	4
+self-experimentation	human enhancement	4
+self-experimentation	quantified self	4
+head-mounted display	optical head-mounted display	4
+head-mounted display	computer-mediated reality	4
+head-mounted display	eyetap	4
+head-mounted display	head-up display	4
+head-mounted display	positioning technologies	4
+head-mounted display	screenless video	4
+head-mounted display	smartglasses	4
+head-mounted display	stereoscopy	4
+head-mounted display	virtual retinal display	4
+personal science	quantified self	4
+personal science	self-experimentation	4
+personal science	seth roberts	4
+personal science	human enhancement	4
+personal science	ehealth	4
+wearable technology	assistive technology	4
+wearable technology	ai pin	4
+wearable technology	clothing technology	4
+wearable technology	computer-mediated reality	4
+wearable technology	cyborg	4
+wearable technology	flexible electronics	4
+wearable technology	gps watch	4
+wearable technology	mixed reality	4
+wearable technology	smart, connected products	4
+wearable technology	wearable computer	4
+wearable technology	internet of musical things	4
+smart camera	camera trap	3
+smart camera	digital camera	3
+smart camera	event camera	3
+smart camera	indect	3
+smart camera	mobile phone accessories	3
+smart camera	smartdust	3
+smart camera	vision processing unit	3
+smart camera	videography	3
+smart camera	home automation	3
+smart camera	internet of things	3
+opencv	aforge.net	3
+opencv	common language runtime	3
+opencv	.net framework	3
+opencv	mono (software)	3
+opencv	robot operating system	3
+opencv	vxl	3
+opencv	cviptools	3
+opencv	graphical user interface	3
+opencv	component object model	3
+opencv	dynamic-link library	3
+opencv	opennn	3
+opencv	artificial neural network	3
+morphological image processing	h-maxima transform	3
+home automation	home network	4
+home automation	mobile manipulator	4
+home automation	mobile robot	4
+home automation	smart device	4
+home automation	smart speaker	4
+home automation	web of things	4
+opennn	comparison of deep learning software	4
+opennn	neural designer	4
+opennn	artificial intelligence	4
+opennn	machine learning	4
+opennn	deep learning	4
+opennn	artificial neural network	4
+internet of things	ambient iot	4
+internet of things	artificial intelligence of things	4
+internet of things	automotive security	4
+internet of things	cloud manufacturing	4
+internet of things	data distribution service	4
+internet of things	digital object memory	4
+internet of things	electric dreams (film)	4
+internet of things	four-dimensional product	4
+internet of things	fourth industrial revolution	4
+internet of things	indoor positioning system	4
+internet of things	internet of musical things	4
+internet of things	iot security device	4
+internet of things	matter (standard)	4
+internet of things	openwsn	4
+internet of things	quantified self	4
+internet of things	responsive computer-aided design	4
+dynamic-link library	dependency walker	4
+dynamic-link library	dynamic library	4
+dynamic-link library	library (computing)	4
+dynamic-link library	linker (computing)	4
+dynamic-link library	loader (computing)	4
+dynamic-link library	moricons.dll	4
+dynamic-link library	object file	4
+dynamic-link library	shared library	4
+dynamic-link library	static library	4
+dynamic-link library	dll hell	4
+vxl	opencv	4
+graphical user interface	apple computer, inc. v. microsoft corp.	4
+graphical user interface	console user interface	4
+graphical user interface	computer icon	4
+graphical user interface	distinguishable interfaces	4
+graphical user interface	general graphics interface	4
+graphical user interface	gui tree	4
+graphical user interface	human factors and ergonomics	4
+graphical user interface	look and feel	4
+graphical user interface	natural user interface	4
+graphical user interface	ncurses	4
+graphical user interface	object-oriented user interface	4
+graphical user interface	organic user interface	4
+graphical user interface	rich web application	4
+graphical user interface	skeuomorph	4
+graphical user interface	theme (computing)	4
+graphical user interface	text entry interface	4
+graphical user interface	transportable applications environment	4
+graphical user interface	user experience design	4
+graphical user interface	user interface design	4
+graphical user interface	vector-based graphical user interface	4
+component object model	calling convention	4
+component object model	common language infrastructure	4
+component object model	d-bus	4
+component object model	foreign function interface	4
+component object model	internet communications engine	4
+component object model	java remote method invocation	4
+component object model	kde frameworks	4
+component object model	name mangling	4
+component object model	portable object (computing)	4
+component object model	swig	4
+mono (software)	common language runtime	4
+mono (software)	.net framework	4
+mono (software)	.net core	4
+mono (software)	standard libraries (cli)	4
+mono (software)	base class library	4
+mono (software)	comparison of application virtual machines	4
+mono (software)	dotgnu	4
+mono (software)	monodevelop	4
+mono (software)	integrated development environment	4
+mono (software)	moonlight (runtime)	4
+mono (software)	open-source software	4
+mono (software)	microsoft	4
+mono (software)	microsoft silverlight	4
+mono (software)	shared source common language infrastructure	4
+mono (software)	mod mono	4
+mono (software)	apache http server	4
+mono (software)	asp.net	4
+robot operating system	open-source hardware	4
+robot operating system	open-source software	4
+robot operating system	robotics middleware	4
+.net framework	microsoft foundation class library	4
+.net framework	.net	4
+.net framework	standard libraries (cli)	4
+.net framework	base class library	4
+common language runtime	common intermediate language	4
+common language runtime	java virtual machine	4
+aforge.net	accord.net	4
+aforge.net	opencv	4
+aforge.net	vxl	4
+aforge.net	cviptools	4
+aforge.net	opennn	4
+videography	3d film	4
+videography	cinematography	4
+videography	camera coverage	4
+videography	camera operator	4
+videography	match moving	4
+videography	cinematic techniques	4
+videography	digital cinema	4
+videography	event videography	4
+videography	filmmaking	4
+videography	underwater videography	4
+videography	video production	4
+videography	wedding videography	4
+mobile phone accessories	modular smartphone	4
+mobile phone accessories	near field communication	4
+mobile phone accessories	phone theme	4
+mobile phone accessories	screen protector	4
+mobile phone accessories	smart camera	4
+mobile phone accessories	wiktionary:smart band	4
+event camera	neuromorphic engineering	4
+event camera	retinomorphic sensor	4
+event camera	rolling shutter	4
+indect	facial recognition system	4
+indect	mass surveillance	4
+indect	video content analysis	4
+indect	artificial intelligence for video surveillance	4
+google goggles	google lens	4
+frame grabber	tweening	4
+frame grabber	video capture	4
+frame grabber	tv tuner card	4
+frame grabber	automated imaging association	4
+digital camera	computational photography	4
+digital camera	digitaos	4
+digital camera	magic lantern (firmware)	4
+digital camera	pixel shift	4
+digital camera	smart camera	4
+digital camera	video camera	4
+digital camera	digital signal processor	4
+digital camera	vision processing unit	4
+digital camera	image sensor	4
+camera trap	beetlecam	4
+camera trap	human bycatch	4
+camera trap	remote camera	4
+camera trap	smart camera	4
+glossary of artificial intelligence	artificial intelligence	4
+video capture	tv tuner card	4
+video capture	broadcast television	4
+video capture	frame grabber	4
+video capture	uncompressed video	4
+video capture	dazzle (video recorder)	4
+tv tuner card	comparison of pvr software packages	4
+tv tuner card	digital video recorder	4
+tv tuner card	frame grabber	4
+tv tuner card	tv gateway	4
+tweening	flicker fusion threshold	4
+tweening	morphing	4
+tweening	onion skinning	4
+tweening	motion blur	4
+tweening	smear frame	4
+tweening	synfig	4
+tweening	foss	4
+corner detection	blob detection	3
+corner detection	affine shape adaptation	3
+corner detection	scale space	3
+corner detection	ridge detection	3
+corner detection	interest point detection	3
+corner detection	feature detection (computer vision)	3
+corner detection	image derivative	3
+hough transform	generalised hough transform	3
+hough transform	randomized hough transform	3
+hough transform	radon transform	3
+hough transform	fourier transform	3
+canny edge detector	computer vision	3
+canny edge detector	digital image processing	3
+canny edge detector	feature detection (computer vision)	3
+canny edge detector	feature extraction	3
+canny edge detector	ridge detection	3
+canny edge detector	robinson compass mask	3
+canny edge detector	scale space	3
+feature extraction	covariate	3
+feature extraction	data transformation (statistics)	3
+feature extraction	feature learning	3
+feature extraction	hashing trick	3
+feature extraction	instrumental variables estimation	3
+feature extraction	kernel method	3
+feature extraction	scale co-occurrence matrix	3
+feature extraction	space mapping	3
+structure tensor	tensor	3
+structure tensor	tensor operator	3
+structure tensor	directional derivative	3
+structure tensor	gaussian	3
+structure tensor	corner detection	3
+structure tensor	edge detection	3
+structure tensor	lucas kanade method	3
+structure tensor	affine shape adaptation	3
+structure tensor	generalized structure tensor	3
+scale space	difference of gaussians	4
+scale space	gaussian function	4
+scale space	mipmap	4
+ridge detection	blob detection	4
+ridge detection	computer vision	4
+ridge detection	edge detection	4
+ridge detection	feature detection (computer vision)	4
+ridge detection	interest point detection	4
+ridge detection	scale space	4
+affine shape adaptation	blob detection	4
+affine shape adaptation	corner detection	4
+affine shape adaptation	gaussian function	4
+affine shape adaptation	harris-affine	4
+affine shape adaptation	hessian affine region detector	4
+affine shape adaptation	scale space	4
+generalized structure tensor	structure tensor	4
+generalized structure tensor	hough transform	4
+generalized structure tensor	tensor	4
+generalized structure tensor	gaussian	4
+generalized structure tensor	corner detection	4
+generalized structure tensor	edge detection	4
+generalized structure tensor	affine shape adaptation	4
+generalized structure tensor	directional derivative	4
+generalized structure tensor	differential operator	4
+generalized structure tensor	lie algebra	4
+lucas kanade method	optical flow	4
+lucas kanade method	horn–schunck method	4
+lucas kanade method	shi–tomasi corner detection algorithm	4
+lucas kanade method	kanade–lucas–tomasi feature tracker	4
+edge detection	edge-preserving filtering	4
+edge detection	feature detection (computer vision)	4
+edge detection	image derivative	4
+edge detection	gabor filter	4
+edge detection	image noise reduction	4
+edge detection	kirsch operator	4
+edge detection	ridge detection	4
+edge detection	log gabor filter	4
+edge detection	phase stretch transform	4
+tensor operator	wigner–eckart theorem	4
+tensor operator	structure tensor	4
+tensor operator	clebsch–gordan coefficients for su(3)	4
+tensor	array data type	4
+tensor	cartesian tensor	4
+tensor	fibre bundle	4
+tensor	glossary of tensor theory	4
+tensor	multilinear subspace learning	4
+tensor	one-form	4
+tensor	tensor product of modules	4
+tensor	application of tensor theory in engineering	4
+tensor	continuum mechanics	4
+tensor	covariant derivative	4
+tensor	curvature	4
+tensor	diffusion mri	4
+tensor	einstein field equations	4
+tensor	fluid mechanics	4
+tensor	gravity	4
+tensor	riemannian geometry	4
+tensor	structure tensor	4
+tensor	tensor contraction engine	4
+tensor	tensor decomposition	4
+tensor	tensor derivative	4
+tensor	tensor software	4
+kernel method	kernel methods for vector output	4
+kernel method	kernel density estimation	4
+kernel method	representer theorem	4
+kernel method	similarity learning	4
+kernel method	cover's theorem	4
+feature learning	automated machine learning	4
+feature learning	deep learning	4
+feature learning	geometric feature learning	4
+feature learning	feature detection (computer vision)	4
+feature learning	feature extraction	4
+feature learning	word embedding	4
+feature learning	vector quantization	4
+feature learning	variational autoencoder	4
