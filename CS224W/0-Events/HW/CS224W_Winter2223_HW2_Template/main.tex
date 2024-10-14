@@ -1,0 +1,207 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{bbm}
+\usepackage{url}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{tikz}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{float}
+
+\title{Homework 2}
+\author{John Doe, jdoe@stanford.edu}
+
+\newcommand{\Solution}[1]{{\medskip \color{black} \bf $\bigstar$~\sf \textbf{Solution}~$\bigstar$ \sf #1 } \bigskip}
+
+\begin{document}
+
+\maketitle
+
+\section{Label Propagation}
+
+As we discussed in class, we can use label propagation to predict node labels. Consider graph G as shown in the figure below. We would like to classify nodes into 2 classes "+" and "-". Labels for nodes 5, 6, 7 and 10 are given ("+" is blue, "-" is red). Recall that using a probabilistic label propagator to predict label $Y_i$ for node $i$ is defined as: $$P(Y_i = c) = \frac{1}{|N_i|} \sum_{(i,j) \in E} W(i,j) P(Y_j = c)$$ where $|N_i|$ is defined as the number of neighbors of node $i$, and assume all edges have edge weight $W(i,j) = 1$. For labeled nodes, initialize with the ground-truth Y labels, i.e., $P(Y_6 = +) = P(Y_7 = +) = P(Y_{10} = +) = 1$, $P(Y_5 = +) = 0$. For unlabeled nodes, use unbiased initialization $P(Y_i = +) = 0.5$. Then, update nodes by node ID in ascending order, i.e., update node 1 first, then node 2, etc. \\
+\\
+After the second iteration, find $P(Y_i = +)$ for $i = 2,3,9$.
+\begin{figure}[!htb]
+\centering
+  \includegraphics[width=0.6\columnwidth]{label-propagation.png}
+  \caption{Graph G}
+\end{figure}
+
+\subsection*{Question 1.1}
+$P(Y_2 = +)$
+
+\Solution{Write your answer here. \\ Example for writing a matrix $M$: \\
+ \[M = 
+    \begin{bmatrix}
+    1 \ 2   \\
+    3 \ 4
+    \end{bmatrix}
+\]
+Example for writing an equation:
+\begin{equation}
+    F=ma
+\end{equation}
+Example for inserting a figure: 
+\begin{figure}[!htb]
+\centering
+  \includegraphics[width=0.8\columnwidth]{Sample_Image.png}
+  \label{fig:Q1.1}
+\end{figure}
+}
+
+\subsection*{Question 1.2}
+$P(Y_3 = +)$
+
+\Solution{}
+
+\subsection*{Question 1.3}
+$P(Y_9 = +)$
+
+\Solution{}
+
+\subsection*{Question 1.4}
+If we use 0.5 as the probability threshold, i.e., consider a node $i$ belonging to class "+" if $P(Y_i = +) > 0.5$, which node(s) will belong to the class "-" after the second iteration? \textbf{(Your answer should be separated by a comma, ordered by node ID, with no extra space, e.g. 7,8,9. Include the final results with original nodes that are already assigned labels).}
+
+\Solution{}
+
+
+\section{Node Embeddings with TransE}
+
+While many real world systems are effectively modeled as graphs, graphs can be a cumbersome format for certain downstream applications, such as machine learning models. It is often useful to represent each node of a graph as a vector in a continuous low dimensional space. The goal is to preserve information about the structure of the graph in the vectors assigned to each node. For instance, the spectral embedding in Homework 1 preserved structure in the sense that nodes connected by an edge were usually close together in the (one-dimensional) embedding $x$.\\
+
+\noindent Multi-relational graphs are graphs with multiple types of edges. They are incredibly useful for representing structured information, as in knowledge graphs. There may be one node representing “Washington, DC” and another representing “United States”, and an edge between them with the type “Is capital of”. In order to create an embedding for this type of graph, we need to capture information about not just which edges exist, but what the types of those edges are. In this problem, we will explore a particular algorithm designed to learn node embeddings for multi relational graphs. \\\\
+The algorithm we will look at is TransE.\footnote{See the 2013 NeurIPS paper by Bordes et al: \url{https://papers.nips.cc/paper/5071-translating-embeddings-for modeling-multi-relational-data.pdf}}
+We will first introduce some notation used in the paper describing this algorithm.
+We’ll let a multi-relational graph $G = (E, S, L)$ consist of the set of \textit{entities} $E$ (i.e., nodes), a set of edges $S$, and a set of possible relationships $L$.
+The set $S$ consists of triples $(h, l, t)$, where $h \in E$ is the \textit{head} or source-node, $l \in L$ is the relationship, and $t \in E$ is the \textit{tail} or destination-node.
+As a node embedding, TransE tries to learn embeddings of each entity $e \in E$ into $\mathbb{R}^k$ ( $k$-dimensional vectors), which we will notate by $\mathbf{e}$. The main innovation of TransE is that each relationship $\ell$ is also embedded as a vector $\ell \in \mathbb{R}^k$, such that the difference between the embeddings of entities linked via the relationship $\ell$ is approximately $\ell$. That is, if $(h, \ell, t) \in S$, TransE tries to ensure that $\mathbf{h}+\boldsymbol{\ell} \approx \mathbf{t}$. Simultanesouly, TransE tries to make sure that $\mathbf{h}+\boldsymbol{\ell} \not\approx \mathbf{t}$ if the edge $(h, \ell, t)$ does not exist.\\\\
+\textbf{Note on notation}: we will use unbolded letters $e, \ell$, etc. to denote the entities and relationships in the graph, and bold letters $\mathbf{e}, \boldsymbol{\ell}$, etc., to denote their corresponding embeddings.
+TransE accomplishes this by minimizing the following loss:
+\begin{equation}\label{eq1}
+\mathcal{L}=\sum_{(h, \ell, t) \in S}\left(\sum_{\left(h^{\prime}, \ell, t^{\prime}\right) \in S_{(h, \ell, t)}^{\prime}}\left[\gamma+d(\mathbf{h}+\boldsymbol{\ell}, \mathbf{t})-d\left(\mathbf{h}^{\prime}+\boldsymbol{\ell}, \mathbf{t}^{\prime}\right)\right]_{+}\right)
+\end{equation}
+Here $\left(h^{\prime}, \ell, t^{\prime}\right)$ are "corrupted" triplets, chosen from the set $S_{(h, \ell, t)}^{\prime}$ of corruptions of $(h, \ell, t)$, which are all triples where either $h$ or $t$ (but not both) is replaced by a random entity.
+$$
+S_{(h, \ell, t)}^{\prime}=\left\{\left(h^{\prime}, \ell, t\right) \mid h^{\prime} \in E\right\} \cup\left\{\left(h, \ell, t^{\prime}\right) \mid t^{\prime} \in E\right\}
+$$
+Additionally, $\gamma>0$ is a fixed scalar called the \textit{margin}, the function $d(\cdot, \cdot)$ is the Euclidean distance, and $[\cdot]_{+}$ is the positive part function (defined as $\max (0, \cdot)$). Finally, TransE restricts all the entity embeddings to have length $1:\|\mathbf{e}\|_2=1$ for every $e \in E$.\\
+For reference, here is the TransE algorithm, as described in the original paper on page 3:
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.0\textwidth]{algo2.png}
+\end{figure}
+
+\subsection*{Question 2.1}
+Say we were intent on using a simpler loss function. Our objective function (\ref{eq1}) includes a term maximizing the distance between $\mathbf{h}^{\prime}+\boldsymbol{\ell}$ and $\mathbf{t}^{\prime}$. If we instead simplified the objective, and just tried to minimize
+\begin{equation}\label{eq2}
+\mathcal{L}_{\text {simple }}=\sum_{(h, \ell, t) \in S} d(\mathbf{h}+\boldsymbol{\ell}, \mathbf{t}),
+\end{equation}
+
+we would obtain a useless embedding. Give an example of a simple graph and corresponding embeddings which will minimize the new objective function (\ref{eq2}) all the way to zero, but still give a completely useless embedding.\\
+\textbf{Hint:} Your graph should be non-trivial, i.e., it should include at least two nodes and at least one edge. Assume the embeddings are in 2 dimensions, i.e., $k = 2$.
+What happens if $\boldsymbol{\ell} = \textbf{0}$?
+
+\Solution{}
+
+\subsection*{Question 2.2}
+We are interested in understanding what the margin term $\gamma$ accomplishes. If we removed the margin term $\gamma$ from our loss, and instead optimized
+\begin{equation}\label{eq3}
+\mathcal{L}_{\text {no margin }}=\sum_{(h, \ell, t) \in S} \sum_{\left(h^{\prime}, \ell t^{\prime}\right) \in S_{(h, \ell, t)}^{\prime}}\left[d(\mathbf{h}+\boldsymbol{\ell}, \mathbf{t})-d\left(\mathbf{h}^{\prime}+\boldsymbol{\ell}, \mathbf{t}^{\prime}\right)\right]_{+},
+\end{equation}
+it turns out that we would again obtain a useless embedding. Give an example of a simple graph and corresponding embeddings which will minimize the new objective function (\ref{eq3}) all the way to zero, but still give a completely useless embedding. By useless, we mean that in your example, you cannot tell just from the embeddings whether two nodes are linked by a particular relation (Note: your graph should be non-trivial, i.e., it should include at least two nodes and at least one edge. Assume the embeddings are in 2 dimensions, i.e., $k=2$.)
+
+\Solution{}
+
+\subsection*{Question 2.3}
+Recall that TransE normalizes every entity embedding to have unit length (see line 5 of the algorithm). The quality of our embeddings would be much worse if we did not have this step. To understand why, imagine running the algorithm with line 5 omitted.
+What could the algorithm do to trivially minimize the loss in this case? What would the embeddings
+it generates look like?
+
+\Solution{}
+
+\subsection*{Question 2.4}
+Give an example of a simple graph for which no perfect embedding exists, i.e., no embedding perfectly satisfies $\mathbf{u}+\boldsymbol{\ell}=\mathbf{v}$ for all $(u, \ell, v) \in S$ and $\mathbf{u}+\boldsymbol{\ell} \neq \mathbf{v}$ for $(u, \ell, v) \notin S$, for any choice of entity embeddings ($\mathbf{e}$ for $e \in E$ ) and relationship embeddings ( $\boldsymbol{\ell}$ for $\ell \in L$ ). Explain why this graph has no perfect embedding in this system, and what that means about the expressiveness of TransE embeddings. As before, assume the embeddings are in 2 dimensions $(k=2)$.\\
+\textbf{Hint: }By expressiveness of TransE embeddings, we want you to talk about which type of relationships TransE can/cannot model.
+
+\Solution{}
+
+
+\section{Expressive Power of Knowledge Graph Embeddings}
+TransE is a common method for learning representations of entities and relations in a knowledge graph. Given a triplet $(h, \ell, t)$, where entities embedded as $h$ and $t$ are related by a relation embedded as $\ell$, TransE trains entity and relation embeddings to make $h+\ell$ close to $t$. There are some common patterns that relations form:
+\begin{itemize}
+    \item Symmetry: A is married to B, and B is married to A.
+    \item Inverse: A is teacher of B, and B is student of A. Note that teacher and student are 2 different relations and have their own embeddings.
+    \item Composition: $\mathrm{A}$ is son of $\mathrm{B} ; \mathrm{C}$ is sister of $\mathrm{B}$, then $\mathrm{C}$ is aunt of $\mathrm{A}$. Again note that son, sister, and aunt are 3 different relations and have their own embeddings.
+\end{itemize}
+
+\subsection*{Question 3.1}
+For each of the above relational patterns, can TransE model it perfectly, such that $h+\ell=t$ for all relations? Explain why or why not. Note that here $\mathbf{0}$ embeddings for relation are undesirable since that means two entities related by that relation are identical and not distinguishable.
+
+\Solution{}
+
+\subsection*{Question 3.2}
+Consider a new model, RotatE. Instead of training embeddings such that $h+\ell \approx t$, we train embeddings such that $h \circ \ell \approx t$. Here $\circ$ means rotation. You can think of $h$ as a vector of dimension $2 d$, representing $d$ $2 \mathrm{D}$ points. $\ell$ is a $d$-dimensional vector specifying rotation angles. When applying $\circ$, For all $i \in 0 \ldots d-1, \left(h_{2 i}, h_{2 i+1}\right)$ is rotated clockwise by $l_i$. Similar to TransE, the entity embeddings are also normalized to L2 norm 1. Can RotatE model the above 3 relation patterns perfectly? Why or why not?
+
+\Solution{}
+
+\subsection*{Question 3.3}
+Give an example of a graph that RotatE cannot model. Can TransE model this graph? Assume that relation embeddings cannot be $\mathbf{0}$ in either model.
+
+\Solution{}
+
+
+\section{Queries on Knowledge Graphs}
+Knowledge graphs (KGs) can encode a wealth of information about the world. Beyond representing the information using knowledge graphs, we can often derive previously unknown insights about entities and relations in the graphs. In this question, we will explore different approaches for reasoning over knowledge graphs. Recall from that lecture that we are interested in predicting \texttt{tail} nodes given (\texttt{head}, \texttt{relation}). We will use the same formulation throughout this question.
+
+\subsection*{Question 4.1}
+Consider the biomedicine knowledge graph from lecture. Assume the question of interest is: ``What proteins are associated with diseases treated by Arimidex?" Write the question in query form (eg. (e:AnchorEntity, (r:Relation))) and find the answer(s) to the query. Partial credit will be rewarded to correct intermediate steps.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{kg.png}
+    \label{fig:5.1}
+\end{figure}
+
+\Solution{}
+
+\subsection*{Question 4.2}
+Consider the same biomedicine knowledge graph from before. Write a conjunctive query to which BIRC2 is the only answer using drugs as anchor entities. If such a query doesn't exist, provide a one-sentence explanation.
+
+\Solution{}
+
+\subsection*{Question 4.3}
+A major issue with direct traversals on knowledge graphs is that they are usually incomplete in reality. One solution is to encode entities, relations, and queries in an embedding space that meaningfully organizes information. We would then be able to impute missing relation links by considering all nearby points of the query embedding as answers to the query. From lecture, we learned that TransE embeddings can be used for this. Can you come up with a way to adopt DistMult embeddings, which uses bilinear modeling, for answering path queries? If yes, describe in one or two sentences what can be modified from the TransE application. If no, provide a one-sentence explanation.
+
+\Solution{}
+
+\subsection*{Question 4.4}
+Query2box is an effective approach for answering complex conjunctive queries. Consider the following 2-dimensional embedding space. Assume that there are 7 entities $A, B, C, D, E, F, G \in V$, whose embeddings are shown below. There are 3 relations: $R_1, R_2, R_3$. $R_1 \in R$ shifts the center of a box by $(0.25, 2)$ and increases the width and height of a box by $(0.5, 2)$. $R_2$ shifts the center of a box by $(1, 0)$ and increases the width and height of a box by $(1, 0)$. $R_3$ shifts the center of a box by $(-0.75, 1)$ and increases the width and height of a box by $(1.5, 3)$.
+
+Use the Query2box projection operator to find the answers to the conjunctive query: ((e:$A$, (r:$R_1$, r:$R_2$), (e:$C$, (r:$R_3$)). Show your work. Partial credit will be rewarded to correct intermediate steps.
+
+Note: Shifting by a negative value means moving towards the left or bottom. Increasing the width and height by an amount means adding that amount in absolute value, not multiplying that amount as a factor. Assume that each path query starts with a box centered at the anchor entity with zero width and height.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{query2box.png}
+    \label{fig:5.4}
+\end{figure}
+
+\Solution{}
+
+
+\section{Honor Code}
+(X) I have read and understood Stanford Honor Code before I submitted my work.
+\\ $**$ Collaboration: Write down the names \& SUNetIDs of students you collaborated with on Homework 2 (None if you didn’t).$**$
+\\ $**$Note: Read our website on our policy about collaboration!$**$
+
+
+\end{document}
