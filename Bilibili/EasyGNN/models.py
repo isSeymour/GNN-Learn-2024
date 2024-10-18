@@ -53,7 +53,6 @@ class GAT(nn.Module):
 
 from layers import GraphConvolution
 
-
 class GCN(nn.Module):
     def __init__(self, nfeat, nhid, nclass, dropout):
         super(GCN, self).__init__()

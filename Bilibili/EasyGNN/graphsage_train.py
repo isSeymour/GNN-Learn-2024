@@ -1,17 +1,13 @@
 # -*- coding: utf-8 -*-
-
-
-
 import torch
-
 import numpy as np
 import torch.nn as nn
 import torch.optim as optim
 from graphsage import GraphSage
 from data import CoraData
 from sampling import multihop_sampling
-
 from collections import namedtuple
+
 INPUT_DIM = 1433    # 输入维度
 # Note: 采样的邻居阶数需要与GCN的层数保持一致
 HIDDEN_DIM = [128, 7]   # 隐藏单元节点数

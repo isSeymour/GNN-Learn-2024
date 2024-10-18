@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-   File Name：     train
-   Description :
-   Author :        Lr
-   date：          2023/1/10
--------------------------------------------------
-   Change Activity:
-                   2023/1/10:
--------------------------------------------------
-"""
-
-
 from __future__ import division
 from __future__ import print_function
 
@@ -22,7 +8,6 @@ import random
 import argparse
 import numpy as np
 import torch
-import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable

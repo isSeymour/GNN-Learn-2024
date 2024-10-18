@@ -1,24 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-   File Name：     data
-   Description :
-   Author :       Lr
-   date：          2023/1/11
--------------------------------------------------
-   Change Activity:
-                   2023/1/11:
--------------------------------------------------
-"""
-
-
-import os
 import os.path as osp
 import pickle
 import numpy as np
 import itertools
 import scipy.sparse as sp
-import urllib
 from collections import namedtuple
 
 
@@ -37,7 +21,7 @@ class CoraData(object):
         处理之后的数据可以通过属性 .data 获得，它将返回一个数据对象，包括如下几部分：
             * x: 节点的特征，维度为 2708 * 1433，类型为 np.ndarray
             * y: 节点的标签，总共包括7个类别，类型为 np.ndarray
-            * adjacency_dict: 邻接信息，，类型为 dict
+            * adjacency_dict: 邻接信息，类型为 dict
             * train_mask: 训练集掩码向量，维度为 2708，当节点属于训练集时，相应位置为True，否则False
             * val_mask: 验证集掩码向量，维度为 2708，当节点属于验证集时，相应位置为True，否则False
             * test_mask: 测试集掩码向量，维度为 2708，当节点属于测试集时，相应位置为True，否则False

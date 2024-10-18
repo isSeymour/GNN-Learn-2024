@@ -52,10 +52,10 @@ def make_dot(var, params):
     add_nodes(var.grad_fn)
     return dot
 
-inputs = torch.randn(100, 50).cuda()
-adj = torch.randn(100, 100).cuda()
-model = models.SpGAT(50, 8, 7, 0.5, 0.01, 3)
-model = model.cuda()
+inputs = torch.randn(100, 50)
+adj = torch.randn(100, 100)
+model = models.MyGAT(50, 8, 7, 0.5, 0.01, 3)
+model = model
 y = model(inputs, adj)
 
 g = make_dot(y, model.state_dict())

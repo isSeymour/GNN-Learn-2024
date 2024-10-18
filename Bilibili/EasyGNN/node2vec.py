@@ -1,12 +1,9 @@
 import networkx as nx
 import numpy as np
-import random
 from collections import defaultdict
-import os
-from sklearn.metrics import roc_auc_score
 import random
 from gensim.models import Word2Vec
-from sklearn.metrics import f1_score
+
 
 path = "./"
 
@@ -23,6 +20,18 @@ class Node2Vec:
         self.q = q
 
     def sampleByWeight(self, v, t):
+        '''
+        按照权重采样下一个点
+        Parameters
+        ----------
+        v 当前节点
+        t 上一节点
+
+        Returns
+        -------
+        node 下一节点
+        False 没有邻居，出错
+        '''
         nbs = list(self.G.neighbors(v))
         # 1.特殊情况处理
         if len(nbs) == 0:
@@ -115,9 +124,6 @@ class Node2Vec:
         """
         print('Start training...')
         random.seed(616)
-        # w2v = Word2Vec(sentences=sentenses, vector_size=self.emb_size, window=self.window_size, iter=self.num_iters, sg=1,
-        #                hs=1, min_count=0, workers=workers)
-        #
         w2v = Word2Vec(sentences=sentenses, vector_size=self.emb_size, window=self.window_size, sg=1,
                        hs=1, min_count=0, workers=workers)
         w2v.build_vocab(sentenses)
@@ -148,16 +154,22 @@ def load_cora():
     labels = np.empty((num_nodes, 1), dtype=np.int64)
     node_map = {}
     label_map = {}
+    # 读取内容特征
     with open(path + "/cora/cora.content") as fp:
         for i, line in enumerate(fp):
             info = line.strip().split()
+            # 将第 1 列到倒数第 2 列是特征，转为 float 再存为矩阵列表
             feat_data[i, :] = list(map(float, info[1:-1]))
-
+            # 第 0 列 是 论文号，映射到本次的 map 索引号
             node_map[info[0]] = i
+
+            # label map 是从 str 映射到 int
             if not info[-1] in label_map:
                 label_map[info[-1]] = len(label_map)
+            # 记录下本次论文的标签int
             labels[i] = label_map[info[-1]]
 
+    # 读取引用情况
     adj_lists = defaultdict(set)
     with open(path + "/cora/cora.cites") as fp:
         for i, line in enumerate(fp):
@@ -188,11 +200,11 @@ def main():
     """
     # 读取边数据
     _, _, adj_lists = load_cora()
-    edges_set=set()
+    edges_set = set()
     for key in adj_lists:
-        tmp_dic=adj_lists[key]
+        tmp_dic = adj_lists[key]
         for i in tmp_dic:
-            tmp_tuple=(key,i)
+            tmp_tuple=(key, i)
             edges_set.add(tmp_tuple)
     edges_list=list(edges_set)
 
