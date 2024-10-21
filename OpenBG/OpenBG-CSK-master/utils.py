@@ -1,5 +1,4 @@
 # coding: UTF-8
-from torch.utils.data import TensorDataset, DataLoader
 import csv
 import torch
 from tqdm import tqdm
