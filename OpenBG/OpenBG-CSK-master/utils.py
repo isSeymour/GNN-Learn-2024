@@ -1,4 +1,5 @@
 # coding: UTF-8
+from torch.utils.data import TensorDataset, DataLoader
 import csv
 import torch
 from tqdm import tqdm
@@ -77,7 +78,6 @@ def gettoken(config, subjects, objects, predicates):
 
 
 def gettoken_pmi(config, subjects, objects, predicates):
-    tokenizer = config.tokenizer
     sents = []
     subs = []
     objs = []
@@ -109,7 +109,7 @@ def gettoken_pmi(config, subjects, objects, predicates):
         tokenized_t1 = tokenizer.tokenize(subs[j])
         tokenized_t2 = tokenizer.tokenize(objs[j])
 
-        # mask sentence
+        # mask sentence 掩盖（mask）主语和宾语，生成三种不同的句子版本
         masked_sent_list = mask_sentence(tokenized_sent, tokenized_t1, tokenized_t2)
 
         indexed_masked_list = [tokenizer.convert_tokens_to_ids(m) for m in masked_sent_list]

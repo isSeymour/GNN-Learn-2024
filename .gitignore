@@ -32,3 +32,4 @@ __pycache__
 
 *.pt
 /OpenBG/OpenBG-IMG-main/data/OpenBG-IMG
+/OpenBG/OpenBG-CSK-master/output/save_dict

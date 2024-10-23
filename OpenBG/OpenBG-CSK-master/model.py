@@ -49,13 +49,21 @@ class KGBERT(nn.Module):
         outputs = self.bert(input_ids=input_ids, attention_mask=attention_mask, token_type_ids=type_ids, position_ids=position_ids)
         sequence_output = outputs[0]
         sequence_output = self.dropout(sequence_output)
-        procuct_ouput = torch.mean(sequence_output, 1)
-        x = self.dense_1(procuct_ouput)
+        procuct_output = torch.mean(sequence_output, 1)
+        x = self.dense_1(procuct_output)
         x = torch.sigmoid(x).squeeze(-1)
         return x
 
 
 class PMI(nn.Module):
+    '''
+    互信息（Pointwise Mutual Information，PMI）
+    通过利用 BERT 生成的上下文嵌入，计算两个实体的互信息。具体流程是：
+
+	1.	使用 LSTM 和 MLP 生成新 token 的嵌入。
+	2.	将新生成的 token 嵌入替换原始句子中的 masked token。
+	3.	分别计算实体之间的条件概率和边际概率，并使用 PMI 公式估算互信息。
+    '''
     def __init__(self, config):
         super(PMI, self).__init__()
         self.device = config.device
@@ -65,6 +73,7 @@ class PMI(nn.Module):
         # for param in self.bert.parameters():
         #     param.requires_grad = False
 
+        # 多层感知器 MLP 和 LSTM 组件
         self.mlp = torch.nn.Sequential(
             torch.nn.Linear(config.hidden_size, config.hidden_size),
             torch.nn.ReLU(),
@@ -77,11 +86,11 @@ class PMI(nn.Module):
                                        dropout=config.dropout,
                                        bidirectional=True,
                                        batch_first=True)
+        # 新 token 引入
         self.seq_indices = torch.LongTensor(list(range(config.new_tokens))).to(config.device)
         self.extra_token_embeddings = nn.Embedding(config.new_tokens, config.hidden_size).to(config.device)
         self.embeddings = self.bert.get_input_embeddings()
-        self.lamda = torch.nn.Parameter(torch.tensor([config.lamda]))
-
+        # 标量参数
         self.scale_a = torch.nn.Parameter(torch.tensor([0.66]))
         self.scale_b = torch.nn.Parameter(torch.tensor([0.66]))
         self.relu = torch.nn.ReLU()
@@ -90,7 +99,7 @@ class PMI(nn.Module):
     def forward(self, sent, masked_head, masked_tail, masked_both, attention_mask):
         # def forward(self, masked, ids):
         # [5, 768]
-
+        # 新的 token 嵌入
         new_token_embeddings = self.extra_token_embeddings(self.seq_indices).unsqueeze(0)
         new_token_embeddings = self.mlp(self.lstm_head(new_token_embeddings)[0]).squeeze()
         # # [8,5,768]

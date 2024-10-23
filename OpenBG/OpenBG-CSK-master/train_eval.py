@@ -6,6 +6,9 @@ import torch.nn.functional as F
 from sklearn import metrics
 import time
 import json
+
+from tqdm import tqdm
+
 from utils import get_time_dif, gettoken, gettoken_pmi
 from transformers import AdamW
 
@@ -20,7 +23,7 @@ def train(config, model, train_iter, dev_iter, test_iter):
     model.train()
     for epoch in range(config.num_epochs):
         print('Epoch [{}/{}]'.format(epoch + 1, config.num_epochs))
-        for i, batches in enumerate(train_iter):
+        for batches in tqdm(train_iter, desc="Process"):
             model.zero_grad()
             # _, subjects, objects, predicates, labels = batches
             subjects, objects, predicates, labels = batches["subject"], batches["object"], batches["predicate"], batches["salience"]

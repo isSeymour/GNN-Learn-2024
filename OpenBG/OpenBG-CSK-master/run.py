@@ -47,12 +47,8 @@ def train_entry():
     print(len(train_data))
     print(len(dev_data))
     test_data = load_local_dataset(config.test_path, config)
-    train_iter = DataLoader(
-        train_data,
-        shuffle=True,
-        batch_size=config.batch_size,
-        num_workers=config.num_workers,
-        drop_last=True)
+    train_iter = DataLoader(train_data, shuffle=True, batch_size=config.batch_size,
+                            num_workers=config.num_workers, drop_last=True)
     dev_iter = DataLoader(dev_data, shuffle=False, batch_size=config.batch_size,
                           num_workers=config.num_workers, drop_last=False)
     test_iter = DataLoader(test_data, shuffle=False, batch_size=config.batch_size,
