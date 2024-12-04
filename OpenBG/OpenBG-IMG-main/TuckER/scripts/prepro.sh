@@ -1,1 +1,0 @@
-python ../utils/splitdata.py
